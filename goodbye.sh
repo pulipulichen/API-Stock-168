@@ -1,1 +1,1 @@
-echo "Goodbye"
+echo "Goodbye" >> build/ccc.txt

@@ -14,9 +14,12 @@ jobs:
         run: |
           mkdir -p build
           echo `date` >> build/okk.txt
+          sh goodbye.sh
 
       - name: Test
-        run: cat build/okk.txt
+        run: |
+          cat build/okk.txt
+          cat build/ccc.txt
 
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@v4
