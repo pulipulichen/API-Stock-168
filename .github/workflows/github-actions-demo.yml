@@ -16,7 +16,7 @@ jobs:
           echo `date` >> build/ok.txt
 
       - name: Test
-        run: echo build/ok.txt
+        run: cat build/ok.txt
 
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@v4
