@@ -51,6 +51,7 @@ jobs:
         run: |
           mkdir -p build
           echo `date` >> build/ok.txt
+          cat build/ok.txt
 
       - name: Save Primes
         id: cache-primes-save
