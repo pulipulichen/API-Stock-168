@@ -39,6 +39,7 @@ jobs:
           mkdir -p ${{ runner.temp }}/build_logs
           echo `date` >> ${{ runner.temp }}/build_logs/tmp.txt
           cat ${{ runner.temp }}/build_logs/tmp.txt
+          mkdir -p build
           cp ${{ runner.temp }}/build_logs/tmp.txt build
 
       - name: Deploy 🚀
