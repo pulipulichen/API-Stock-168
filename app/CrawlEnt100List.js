@@ -60,5 +60,7 @@ module.exports = async function () {
     }
   })
 
+  output = [output[0], output[1], output[2]]
+
   return output
 }
