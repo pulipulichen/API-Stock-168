@@ -24,14 +24,19 @@ jobs:
 
       # ----------------------------------------------------------------
 
-      - name: Restore cached Primes
-        id: cache-primes-restore
-        uses: actions/cache/restore@v3
+      - name: Cache node modules
+        id: cache-npm
+        uses: actions/cache@v3
+        env:
+          cache-name: cache-node-modules
         with:
-          path: |
-            cache
-          key: ${{ runner.os }}-primes
-
+          # npm cache files are stored in `~/.npm` on Linux/macOS
+          path: cache
+          key: ${{ runner.os }}-build-${{ env.cache-name }}-${{ hashFiles('**/package-lock.json') }}
+          restore-keys: |
+            ${{ runner.os }}-build-${{ env.cache-name }}-
+            ${{ runner.os }}-build-
+            ${{ runner.os }}-
       # ----------------------------------------------------------------
 
       # - name: test
@@ -44,13 +49,13 @@ jobs:
 
       # ----------------------------------------------------------------
 
-      - name: Save Primes
-        id: cache-primes-save
-        uses: actions/cache/save@v3
-        with:
-          path: |
-            cache
-          # key: ${{ steps.cache-primes-restore.outputs.cache-primary-key }}
+      # - name: Save Primes
+      #   id: cache-primes-save
+      #   uses: actions/cache/save@v3
+      #   with:
+      #     path: |
+      #       cache
+      #     # key: ${{ steps.cache-primes-restore.outputs.cache-primary-key }}
 
       # ----------------------------------------------------------------
 
