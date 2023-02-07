@@ -1,16 +1,8 @@
-const puppeteer = require('puppeteer');
+const CrawlEnt100List = require('./CrawlEnt100List.js');
+const fs = require('fs');
+
 
 (async () => {
-  const browser = await puppeteer.launch({
-    //headless: false,
-    args: ['--no-sandbox', '--disable-setuid-sandbox', '--window-size=800,600'],
-    ignoreHTTPSErrors: true,
-
-  });
-  const page = await browser.newPage();
-  await page.goto(process.env['url']);
-
-  await page.screenshot({ path: 'output/example.png' });
-
-  await browser.close();
+  let result = await CrawlEnt100List()
+  fs.writeFileSync('output/nodejs.txt', JSON.stringify(result, null, 4));
 })();

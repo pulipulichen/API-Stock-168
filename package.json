@@ -1,0 +1,26 @@
+{
+  "name": "API-Stock-168",
+  "version": "1.0.0",
+  "description": "Crawl data and build JSON for API request.",
+  "main": "index.js",
+  "scripts": {
+    "up": "docker-compose up"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://pulipuli.chen@gmail.com@github.com/pulipulichen/API-Stock-168.git"
+  },
+  "keywords": [
+    "GitHub Action"
+  ],
+  "author": "Pulipuli Chen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pulipulichen/API-Stock-168/issues"
+  },
+  "homepage": "https://github.com/pulipulichen/API-Stock-168#readme",
+  "devDependencies": {
+  },
+  "dependencies": {
+  }
+}

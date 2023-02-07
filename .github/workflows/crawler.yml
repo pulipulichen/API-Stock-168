@@ -1,6 +1,6 @@
 name: Crawler
 on: 
-  push:
+  #push:
   schedule:
     # - cron:  "0 */3 * * *" #test7
     - cron:  "0 22 * * *"
