@@ -1,8 +1,9 @@
 name: Build and Deploy
 on: 
-  push:
+  # push:
   schedule:
-    - cron:  "0 */3 * * *"
+    # - cron:  "0 */3 * * *"
+    - cron:  "0 22 * * *"
 permissions:
   contents: write
 jobs:
