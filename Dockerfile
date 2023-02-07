@@ -1,8 +1,7 @@
-# Container image that runs your code
-FROM alpine:3.10
+#Specify the version of nodejs.
+FROM buildkite/puppeteer
+#FROM dayyass/muse_as_service:1.1.2
 
-# Copies your code file from your action repository to the filesystem path `/` of the container
-COPY entrypoint.sh /entrypoint.sh
+RUN mkdir -p /app/
 
-# Code file to execute when the docker container starts up (`entrypoint.sh`)
-ENTRYPOINT ["/entrypoint.sh"]
+CMD ["node", "app/index.js"]

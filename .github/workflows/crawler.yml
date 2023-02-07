@@ -1,0 +1,50 @@
+name: Crawler
+on: 
+  push:
+  schedule:
+    # - cron:  "0 */3 * * *" #test7
+    - cron:  "0 22 * * *"
+permissions:
+  contents: write
+jobs:
+  build-and-deploy:
+    concurrency: ci-${{ github.ref }} # Recommended if you intend to make multiple deployments in quick succession.
+    runs-on: ubuntu-latest
+    steps:
+      # ----------------------------------------------------------------
+      
+      - name: Checkout 🛎️
+        uses: actions/checkout@v3
+
+      # ----------------------------------------------------------------
+
+      # - name: Restore cached Primes
+      #   id: cache-primes-restore
+      #   uses: actions/cache/restore@v3
+      #   with:
+      #     path: |
+      #       build
+      #     key: ${{ runner.os }}-primes
+
+      # ----------------------------------------------------------------
+
+      - name: main
+        run: |
+          docker-compose up
+
+      # ----------------------------------------------------------------
+
+      # - name: Save Primes
+      #   id: cache-primes-save
+      #   uses: actions/cache/save@v3
+      #   with:
+      #     path: |
+      #       build
+      #     key: ${{ steps.cache-primes-restore.outputs.cache-primary-key }}
+
+      # ----------------------------------------------------------------
+
+      - name: Deploy 🚀
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          folder: output # The folder the action should deploy.
