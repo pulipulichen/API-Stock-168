@@ -18,6 +18,10 @@ const Papa = require('papaparse');
     }
   }
 
+  list.sort((a, b) => {
+    return b.DividendRecentAvg - a.DividendRecentAvg
+  })
+
   fs.writeFileSync('output/stock168.json', JSON.stringify(list, null, 2));
 
   let csv = Papa.unparse(list);

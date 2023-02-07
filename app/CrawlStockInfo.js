@@ -395,6 +395,7 @@ module.exports = async function (id = 3008) {
     CurrentPE: await getStockCurrentPE(id),
     CurrentPEAvg: await getStockCurrentPEAvg(id),
     CurrentRecentTrendPercent: await getStockCurrentRecentTrendPercent(id),
-    CurrentRecentTrendComment: await getStockCurrentRecentTrendComment(id)
+    CurrentRecentTrendComment: await getStockCurrentRecentTrendComment(id),
+    URL: `https://tw.stock.yahoo.com/quote/${id}/dividend`
   }
 }
