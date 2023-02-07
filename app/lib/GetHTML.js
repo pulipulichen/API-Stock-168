@@ -5,6 +5,7 @@ const NodeCacheSqlite = require('./NodeCacheSqlite.js');
 
 module.exports = async function (url, cacheDay = 0.5, encoding = null) {
   return await NodeCacheSqlite.get('GetHTML', url, async function () {
+    console.log('GetHTML', url)
     const response = await fetch(url);
 
     if (!encoding) {

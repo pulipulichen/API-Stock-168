@@ -1,7 +1,7 @@
 const CrawlEnt100List = require('./CrawlEnt100List.js');
 const CrawlStockInfo = require('./CrawlStockInfo.js');
 const fs = require('fs');
-
+const Papa = require('papaparse');
 
 (async () => {
   let list = await CrawlEnt100List()
@@ -19,4 +19,7 @@ const fs = require('fs');
   }
 
   fs.writeFileSync('output/stock168.json', JSON.stringify(list, null, 2));
+
+  let csv = Papa.unparse(list);
+  fs.writeFileSync('output/stock168.csv', csv);
 })();
