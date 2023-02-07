@@ -1,6 +1,6 @@
 name: Crawler
 on: 
-  #push:
+  push:
   schedule:
     # - cron:  "0 */3 * * *" #test7
     - cron:  "0 22 * * *"
@@ -28,9 +28,14 @@ jobs:
 
       # ----------------------------------------------------------------
 
-      - name: main
+      - name: test
         run: |
-          docker-compose up
+          docker run hello-world
+
+      # - name: main
+      #   run: |
+      #     docker-compose up
+
 
       # ----------------------------------------------------------------
 
@@ -44,7 +49,7 @@ jobs:
 
       # ----------------------------------------------------------------
 
-      - name: Deploy 🚀
-        uses: JamesIves/github-pages-deploy-action@v4
-        with:
-          folder: output # The folder the action should deploy.
+      # - name: Deploy 🚀
+      #   uses: JamesIves/github-pages-deploy-action@v4
+      #   with:
+      #     folder: output # The folder the action should deploy.

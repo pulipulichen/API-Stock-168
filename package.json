@@ -4,7 +4,8 @@
   "description": "Crawl data and build JSON for API request.",
   "main": "index.js",
   "scripts": {
-    "up": "docker-compose up"
+    "up": "docker-compose up",
+    "build-up": "docker-compose up --build"
   },
   "repository": {
     "type": "git",
@@ -19,8 +20,7 @@
     "url": "https://github.com/pulipulichen/API-Stock-168/issues"
   },
   "homepage": "https://github.com/pulipulichen/API-Stock-168#readme",
-  "devDependencies": {
-  },
   "dependencies": {
+    "iconv-lite": "0.6.3"
   }
 }

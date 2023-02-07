@@ -1,11 +1,16 @@
 const fetch = require('node-fetch');
+const iconv = require('iconv-lite');
 
 module.exports = async function () {
   let url = `http://moneydj.emega.com.tw/js/T50_100.htm`
 
   // let result = LIBRARYcache.fetchURL(url, 'BIG5')
-  const response = await fetch('https://reddit.com/');
-  let result = await response.text();
+  const response = await fetch(url);
+  const buffer = await response.arrayBuffer()
+  let result = iconv.decode(Buffer.from(buffer), 'big5')
+
+  // let result = await response.text();
+  console.log(result);
 
   let head = `<table width='600' border='0' align='center' cellpadding='0' cellspacing='1' class='TableBorder'>`
   let foot = `</table>`
