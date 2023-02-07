@@ -34,7 +34,6 @@ jobs:
 
       - name: test
         run: |
-          docker info
           docker run hello-world
 
       # - name: main
