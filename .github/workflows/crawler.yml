@@ -22,12 +22,18 @@ jobs:
 
       # ----------------------------------------------------------------
 
-      - name: Cache Files
-        id: cache-files
+      - name: Cache
+        id: cache
         uses: actions/cache@v3
+        env:
+          cache-name: cache
         with:
           path: cache
-          key: ${{ runner.os }}-primes
+          key: ${{ runner.os }}-build-${{ env.cache-name }}-${{ hashFiles('cache/trigger.txt') }}
+          restore-keys: |
+            ${{ runner.os }}-build-${{ env.cache-name }}-
+            ${{ runner.os }}-build-
+            ${{ runner.os }}-
 
       # ----------------------------------------------------------------
 
@@ -37,6 +43,8 @@ jobs:
 
       - name: main
         run: |
+          mkdir -p cache
+          echo `date` > cache/trigger.txt
           docker-compose up --build
 
       # ----------------------------------------------------------------
