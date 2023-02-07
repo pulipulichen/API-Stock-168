@@ -1,8 +1,22 @@
 const CrawlEnt100List = require('./CrawlEnt100List.js');
+const CrawlStockInfo = require('./CrawlStockInfo.js');
 const fs = require('fs');
 
 
 (async () => {
-  let result = await CrawlEnt100List()
-  fs.writeFileSync('output/nodejs.txt', JSON.stringify(result, null, 4));
+  let list = await CrawlEnt100List()
+
+  for (let i = 0; i < list.length; i++) {
+    let {id, name} = list[i]
+
+    let info = await CrawlStockInfo(id)
+
+    list[i] = {
+      id,
+      name,
+      ...info
+    }
+  }
+
+  fs.writeFileSync('output/stock168.json', JSON.stringify(list, null, 2));
 })();

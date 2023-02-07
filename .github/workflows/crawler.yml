@@ -3,7 +3,7 @@ on:
   push:
   schedule:
     # - cron:  "0 */3 * * *" #test7
-    - cron:  "0 22 * * *"
+    - cron:  "0 2 * * *"
 permissions:
   contents: write
 jobs:
@@ -40,7 +40,7 @@ jobs:
 
       - name: main
         run: |
-          docker-compose up
+          docker-compose up --build
 
       # ----------------------------------------------------------------
 

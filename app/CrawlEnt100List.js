@@ -53,10 +53,10 @@ module.exports = async function () {
         name = '宏碁'
       }
 
-      output.push([
+      output.push({
         id,
         name
-      ])
+      })
     }
   })
 
