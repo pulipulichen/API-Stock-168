@@ -49,6 +49,7 @@ jobs:
 
       - name: page-build
         run: |
+          mkdir -p build
           echo `date` >> build/ok.txt
 
       - name: Save Primes
