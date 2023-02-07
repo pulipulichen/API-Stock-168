@@ -34,13 +34,38 @@ jobs:
       #     cat build/ccc.txt
       #     cat build/nodejs.txt
 
-      - name: temp
+      # - name: page-build
+      #   run: |
+      #     mkdir -p build
+      #     echo `date` >> build/ok.txt
+
+      - name: Restore cached Primes
+        id: cache-primes-restore
+        uses: actions/cache/restore@v3
+        with:
+          path: |
+            build
+          key: ${{ runner.os }}-primes
+
+      - name: page-build
         run: |
-          mkdir -p ${{ runner.temp }}/build_logs
-          echo `date` >> ${{ runner.temp }}/build_logs/tmp.txt
-          cat ${{ runner.temp }}/build_logs/tmp.txt
-          mkdir -p build
-          cp ${{ runner.temp }}/build_logs/tmp.txt build
+          echo `date` >> build/ok.txt
+
+      - name: Save Primes
+        id: cache-primes-save
+        uses: actions/cache/save@v3
+        with:
+          path: |
+            build
+          key: ${{ steps.cache-primes-restore.outputs.cache-primary-key }}
+
+      # - name: temp
+      #   run: |
+      #     mkdir -p ${{ runner.temp }}/build_logs
+      #     echo `date` >> ${{ runner.temp }}/build_logs/tmp.txt
+      #     cat ${{ runner.temp }}/build_logs/tmp.txt
+      #     mkdir -p build
+      #     cp ${{ runner.temp }}/build_logs/tmp.txt build
 
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@v4
