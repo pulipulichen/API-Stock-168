@@ -22,15 +22,14 @@ jobs:
 
       # ----------------------------------------------------------------
 
-      - name: Cache SQLite
-        id: cache-npm
+      - name: Cache
+        id: cache
         uses: actions/cache@v3
         env:
-          cache-name: cache-sqlite
+          cache-name: cache
         with:
           path: cache
-          # '**/*.sqlite' is the files you want to cache.
-          key: ${{ runner.os }}-build-${{ env.cache-name }}-${{ hashFiles('**/*.sqlite') }}
+          key: ${{ runner.os }}-build-${{ env.cache-name }}-${{ hashFiles('cache/*') }}
           restore-keys: |
             ${{ runner.os }}-build-${{ env.cache-name }}-
             ${{ runner.os }}-build-
