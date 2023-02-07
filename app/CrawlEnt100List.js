@@ -61,7 +61,7 @@ module.exports = async function () {
   })
 
   // output = [output[0], output[1], output[2], output[3]]
-  output = output.splice(0, 3)
+  output = output.splice(0, 5)
 
   return output
 }
