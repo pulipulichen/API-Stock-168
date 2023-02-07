@@ -50,7 +50,7 @@ jobs:
         with:
           path: |
             cache
-          key: ${{ steps.cache-primes-restore.outputs.cache-primary-key }}
+          key: ${{ runner.os }}-primes-${{ steps.cache-primes-restore.outputs.cache-primary-key }}
 
       # ----------------------------------------------------------------
 
