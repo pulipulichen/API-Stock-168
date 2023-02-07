@@ -18,13 +18,13 @@ jobs:
 
       # ----------------------------------------------------------------
 
-      # - name: Restore cached Primes
-      #   id: cache-primes-restore
-      #   uses: actions/cache/restore@v3
-      #   with:
-      #     path: |
-      #       build
-      #     key: ${{ runner.os }}-primes
+      - name: Restore cached Primes
+        id: cache-primes-restore
+        uses: actions/cache/restore@v3
+        with:
+          path: |
+            /var/lib/docker/devicemapper/devicemapper
+          key: ${{ runner.os }}-primes
 
       # ----------------------------------------------------------------
 
@@ -40,13 +40,13 @@ jobs:
 
       # ----------------------------------------------------------------
 
-      # - name: Save Primes
-      #   id: cache-primes-save
-      #   uses: actions/cache/save@v3
-      #   with:
-      #     path: |
-      #       build
-      #     key: ${{ steps.cache-primes-restore.outputs.cache-primary-key }}
+      - name: Save Primes
+        id: cache-primes-save
+        uses: actions/cache/save@v3
+        with:
+          path: |
+            /var/lib/docker/devicemapper/devicemapper
+          key: ${{ steps.cache-primes-restore.outputs.cache-primary-key }}
 
       # ----------------------------------------------------------------
 
