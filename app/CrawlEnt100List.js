@@ -60,7 +60,7 @@ module.exports = async function () {
     }
   })
 
-  output = [output[0], output[1], output[2]]
+  output = [output[0], output[1], output[2], output[3]]
 
   return output
 }
