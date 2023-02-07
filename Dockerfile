@@ -4,8 +4,8 @@ FROM buildkite/puppeteer:10.0.0
 
 RUN mkdir -p /app/
 
-COPY package.json /app/package.json
-WORKDIR /app/
-RUN npm install
+RUN npm link iconv-lite@0.6.3
+RUN npm link sequelize@6.7.0
+RUN npm link sqlite3@5.0.2
 
 CMD ["node", "/app/index.js"]

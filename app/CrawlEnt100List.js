@@ -1,16 +1,13 @@
-const fetch = require('node-fetch');
-const iconv = require('iconv-lite');
+const StripHTML = require('./lib/StripHTML.js')
+const GetHTML = require('./lib/GetHTML.js')
 
 module.exports = async function () {
   let url = `http://moneydj.emega.com.tw/js/T50_100.htm`
 
-  // let result = LIBRARYcache.fetchURL(url, 'BIG5')
-  const response = await fetch(url);
-  const buffer = await response.arrayBuffer()
-  let result = iconv.decode(Buffer.from(buffer), 'big5')
+  let result = await GetHTML(url, 7, 'big5')
 
   // let result = await response.text();
-  console.log(result);
+  // console.log(result);
 
   let head = `<table width='600' border='0' align='center' cellpadding='0' cellspacing='1' class='TableBorder'>`
   let foot = `</table>`
@@ -38,7 +35,7 @@ module.exports = async function () {
     let tdList = tr.split('</td>').slice(0, -1)
 
     for (let i = 0; i < tdList.length; i = i + 2) {
-      let id = LIBRARYcache.stripHtml(tdList[i])
+      let id = StripHTML(tdList[i])
       if (id === '') {
         continue
       }
@@ -47,7 +44,7 @@ module.exports = async function () {
         continue
       }
 
-      let name = LIBRARYcache.stripHtml(tdList[i+1])
+      let name = StripHTML(tdList[i+1])
 
       if (id === 6285) {
         name = '啟碁'

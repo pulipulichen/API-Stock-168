@@ -18,13 +18,15 @@ jobs:
 
       # ----------------------------------------------------------------
 
-      # - name: Restore cached Primes
-      #   id: cache-primes-restore
-      #   uses: actions/cache/restore@v3
-      #   with:
-      #     path: |
-      #       /var/lib/docker/devicemapper/devicemapper
-      #     key: ${{ runner.os }}-primes
+      - name: Restore cached Primes
+        id: cache-primes-restore
+        uses: actions/cache/restore@v3
+        with:
+          path: |
+            cache
+          key: ${{ runner.os }}-primes
+
+      # ----------------------------------------------------------------
 
       - uses: satackey/action-docker-layer-caching@v0.0.11
         # Ignore the failure of a step and avoid terminating the job.
@@ -32,28 +34,27 @@ jobs:
 
       # ----------------------------------------------------------------
 
-      - name: test
-        run: |
-          docker run hello-world
-
-      # - name: main
+      # - name: test
       #   run: |
-      #     docker-compose up
+      #     docker run hello-world
 
-
-      # ----------------------------------------------------------------
-
-      # - name: Save Primes
-      #   id: cache-primes-save
-      #   uses: actions/cache/save@v3
-      #   with:
-      #     path: |
-      #       /var/lib/docker/devicemapper/devicemapper
-      #     key: ${{ steps.cache-primes-restore.outputs.cache-primary-key }}
+      - name: main
+        run: |
+          docker-compose up
 
       # ----------------------------------------------------------------
 
-      # - name: Deploy 🚀
-      #   uses: JamesIves/github-pages-deploy-action@v4
-      #   with:
-      #     folder: output # The folder the action should deploy.
+      - name: Save Primes
+        id: cache-primes-save
+        uses: actions/cache/save@v3
+        with:
+          path: |
+            cache
+          key: ${{ steps.cache-primes-restore.outputs.cache-primary-key }}
+
+      # ----------------------------------------------------------------
+
+      - name: Deploy 🚀
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          folder: output # The folder the action should deploy.
