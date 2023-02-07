@@ -43,20 +43,5 @@
     "CurrentPEAvg": 18.36,
     "CurrentRecentTrendPercent": 0.0057,
     "CurrentRecentTrendComment": "連2跌"
-  },
-  {
-    "id": 2345,
-    "name": "智邦",
-    "DividendRecentAvg": 0.01968,
-    "DividendRecentSlope": -0.002133,
-    "Category": "通訊網路",
-    "CurrentClosingPrice": 273,
-    "CurrentTrend": 15.5,
-    "CurrentTrendPercent": 0.0602,
-    "CurrentTurnover": 7316,
-    "CurrentPE": 19.55,
-    "CurrentPEAvg": 28.42,
-    "CurrentRecentTrendPercent": 0.1211,
-    "CurrentRecentTrendComment": "連5漲"
   }
 ]
