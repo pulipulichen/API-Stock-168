@@ -29,7 +29,7 @@ jobs:
           cache-name: cache
         with:
           path: cache
-          key: ${{ runner.os }}-build-${{ env.cache-name }}-${{ hashFiles('cache/*') }}
+          key: ${{ runner.os }}-build-${{ env.cache-name }}-${{ hashFiles('cache/trigger.txt') }}
           restore-keys: |
             ${{ runner.os }}-build-${{ env.cache-name }}-
             ${{ runner.os }}-build-
@@ -43,8 +43,8 @@ jobs:
 
       - name: main
         run: |
-          docker-compose up --build
           echo `date` > cache/trigger.txt
+          docker-compose up --build
 
       # ----------------------------------------------------------------
 
