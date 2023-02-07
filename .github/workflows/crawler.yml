@@ -30,7 +30,7 @@ jobs:
         with:
           path: |
             cache
-          # key: ${{ runner.os }}-primes
+          key: ${{ runner.os }}-primes
 
       # ----------------------------------------------------------------
 
