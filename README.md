@@ -10,4 +10,4 @@ https://pulipulichen.github.io/API-Stock-168/
 
 ## Trigger
 
-20230207-1727
+20230207-1804
