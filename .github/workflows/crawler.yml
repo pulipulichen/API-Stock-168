@@ -29,6 +29,7 @@ jobs:
           cache-name: cache-sqlite
         with:
           path: cache
+          # '**/*.sqlite' is the files you want to cache.
           key: ${{ runner.os }}-build-${{ env.cache-name }}-${{ hashFiles('**/*.sqlite') }}
           restore-keys: |
             ${{ runner.os }}-build-${{ env.cache-name }}-
