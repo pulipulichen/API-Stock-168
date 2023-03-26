@@ -1,5 +1,21 @@
 [
   {
+    "id": 5522,
+    "name": "遠雄",
+    "DividendRecentAvg": 0.08038,
+    "DividendRecentSlope": 0.00385,
+    "Category": "營建",
+    "CurrentClosingPrice": 57.2,
+    "CurrentTrend": -0.1,
+    "CurrentTrendPercent": -0.0017,
+    "CurrentTurnover": 478,
+    "CurrentPE": 8.13,
+    "CurrentPEAvg": 28.97,
+    "CurrentRecentTrendPercent": 0.0155,
+    "CurrentRecentTrendComment": "連2跌",
+    "URL": "https://tw.stock.yahoo.com/quote/5522/dividend"
+  },
+  {
     "id": 2357,
     "name": "華碩",
     "DividendRecentAvg": 0.06546,
@@ -894,6 +910,22 @@
     "CurrentRecentTrendPercent": 0.0291,
     "CurrentRecentTrendComment": "連3漲",
     "URL": "https://tw.stock.yahoo.com/quote/1605/dividend"
+  },
+  {
+    "id": 2303,
+    "name": "聯電",
+    "DividendRecentAvg": 0.03598,
+    "DividendRecentSlope": -0.0099,
+    "Category": "半導體",
+    "CurrentClosingPrice": 53.1,
+    "CurrentTrend": -0.2,
+    "CurrentTrendPercent": -0.0038,
+    "CurrentTurnover": 43173,
+    "CurrentPE": 7.62,
+    "CurrentPEAvg": 25.94,
+    "CurrentRecentTrendPercent": 0.0075,
+    "CurrentRecentTrendComment": "連2跌",
+    "URL": "https://tw.stock.yahoo.com/quote/2303/dividend"
   },
   {
     "id": 2454,
@@ -2240,22 +2272,6 @@
     "URL": "https://tw.stock.yahoo.com/quote/6415/dividend"
   },
   {
-    "id": 2303,
-    "name": "聯電",
-    "DividendRecentAvg": 0,
-    "DividendRecentSlope": -0.0099,
-    "Category": "半導體",
-    "CurrentClosingPrice": 53.1,
-    "CurrentTrend": -0.2,
-    "CurrentTrendPercent": -0.0038,
-    "CurrentTurnover": 43173,
-    "CurrentPE": 7.62,
-    "CurrentPEAvg": 25.94,
-    "CurrentRecentTrendPercent": 0.0075,
-    "CurrentRecentTrendComment": "連2跌",
-    "URL": "https://tw.stock.yahoo.com/quote/2303/dividend"
-  },
-  {
     "id": 3576,
     "name": "聯合再生",
     "DividendRecentAvg": 0,
@@ -2297,21 +2313,5 @@
     "CurrentTurnover": 0,
     "CurrentPEAvg": 0,
     "URL": "https://tw.stock.yahoo.com/quote/2823/dividend"
-  },
-  {
-    "id": 5522,
-    "name": "遠雄",
-    "DividendRecentAvg": 0,
-    "DividendRecentSlope": 0.00385,
-    "Category": "營建",
-    "CurrentClosingPrice": 57.2,
-    "CurrentTrend": -0.1,
-    "CurrentTrendPercent": -0.0017,
-    "CurrentTurnover": 478,
-    "CurrentPE": 8.13,
-    "CurrentPEAvg": 28.97,
-    "CurrentRecentTrendPercent": 0.0155,
-    "CurrentRecentTrendComment": "連2跌",
-    "URL": "https://tw.stock.yahoo.com/quote/5522/dividend"
   }
 ]
