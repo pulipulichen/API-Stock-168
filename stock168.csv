@@ -18,6 +18,7 @@ id,name,DividendRecentAvg,DividendRecentSlope,Category,CurrentClosingPrice,Curre
 1102,亞泥,0.05356,-0.01495,水泥,43.95,0.1,0.0023,2735,12.81,27.64,0.0023,連3跌→漲,https://tw.stock.yahoo.com/quote/1102/dividend
 3231,緯創,0.05318,-0.0147,電腦週邊,50.1,2.6,0.0547,171073,11.71,23.49,0.0547,連2跌→漲,https://tw.stock.yahoo.com/quote/3231/dividend
 2376,技嘉,0.05204,-0.014025,電腦週邊,139,-2,-0.0142,8983,19.66,23.49,0.0142,連3漲→跌,https://tw.stock.yahoo.com/quote/2376/dividend
+2542,興富發,0.052,-0.017525,營建,41.95,-0.35,-0.0083,6062,18.16,17.9,0.0289,連2跌,https://tw.stock.yahoo.com/quote/2542/dividend
 2327,國巨,0.05198,-0.04345,電子零組件,496,6,0.0122,1378,10.04,58.66,0.0122,連4跌→漲,https://tw.stock.yahoo.com/quote/2327/dividend
 3702,大聯大,0.049,-0.0168,電子通路,49.65,-0.15,-0.003,2736,12.02,11.61,0.007,連2跌,https://tw.stock.yahoo.com/quote/3702/dividend
 2915,潤泰全,0.04806,-0.0181,貿易百貨,56.5,-0.2,-0.0035,1556,7.49,95.93,0.0342,連4跌,https://tw.stock.yahoo.com/quote/2915/dividend
@@ -140,7 +141,6 @@ id,name,DividendRecentAvg,DividendRecentSlope,Category,CurrentClosingPrice,Curre
 3661,世芯-KY,0.0078,-0.003175,半導體,1355,50,0.0383,3999,53.14,77.77,0.0383,跌→漲,https://tw.stock.yahoo.com/quote/3661/dividend
 3714,富采,0.00708,NaN,光電,47.05,0.4,0.0086,1400,0,0,0.0086,連2跌→漲,https://tw.stock.yahoo.com/quote/3714/dividend
 6415,矽力-KY,0.00622,-0.0003,半導體,433.5,-7,-0.0159,2957,27.37,77.77,0.0931,連4跌,https://tw.stock.yahoo.com/quote/6415/dividend
-2542,興富發,0,-999,,0,,,0,,0,,,https://tw.stock.yahoo.com/quote/2542/dividend
 3576,聯合再生,0,0,光電,20,-0.15,-0.0074,10953,32.79,32.39,0.0172,連2跌,https://tw.stock.yahoo.com/quote/3576/dividend
 3682,亞太電,0,0,通訊網路,6.6,-0.02,-0.003,1537,0,0,0.009,連2跌,https://tw.stock.yahoo.com/quote/3682/dividend
 2823,中壽,0,-999,,0,,,0,,0,,,https://tw.stock.yahoo.com/quote/2823/dividend

@@ -304,6 +304,22 @@
     "URL": "https://tw.stock.yahoo.com/quote/2376/dividend"
   },
   {
+    "id": 2542,
+    "name": "興富發",
+    "DividendRecentAvg": 0.052,
+    "DividendRecentSlope": -0.017525,
+    "Category": "營建",
+    "CurrentClosingPrice": 41.95,
+    "CurrentTrend": -0.35,
+    "CurrentTrendPercent": -0.0083,
+    "CurrentTurnover": 6062,
+    "CurrentPE": 18.16,
+    "CurrentPEAvg": 17.9,
+    "CurrentRecentTrendPercent": 0.0289,
+    "CurrentRecentTrendComment": "連2跌",
+    "URL": "https://tw.stock.yahoo.com/quote/2542/dividend"
+  },
+  {
     "id": 2327,
     "name": "國巨",
     "DividendRecentAvg": 0.05198,
@@ -2254,17 +2270,6 @@
     "CurrentRecentTrendPercent": 0.0931,
     "CurrentRecentTrendComment": "連4跌",
     "URL": "https://tw.stock.yahoo.com/quote/6415/dividend"
-  },
-  {
-    "id": 2542,
-    "name": "興富發",
-    "DividendRecentAvg": 0,
-    "DividendRecentSlope": -999,
-    "Category": "",
-    "CurrentClosingPrice": 0,
-    "CurrentTurnover": 0,
-    "CurrentPEAvg": 0,
-    "URL": "https://tw.stock.yahoo.com/quote/2542/dividend"
   },
   {
     "id": 3576,
