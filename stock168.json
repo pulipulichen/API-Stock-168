@@ -224,22 +224,6 @@
     "URL": "https://tw.stock.yahoo.com/quote/1102/dividend"
   },
   {
-    "id": 1229,
-    "name": "聯華",
-    "DividendRecentAvg": 0.01918,
-    "DividendRecentSlope": 0.0005,
-    "Category": "食品",
-    "CurrentClosingPrice": 64.9,
-    "CurrentTrend": -0.3,
-    "CurrentTrendPercent": -0.0046,
-    "CurrentTurnover": 895,
-    "CurrentPE": 25.65,
-    "CurrentPEAvg": 28.47,
-    "CurrentRecentTrendPercent": 0.027,
-    "CurrentRecentTrendComment": "連4跌",
-    "URL": "https://tw.stock.yahoo.com/quote/1229/dividend"
-  },
-  {
     "id": 6271,
     "name": "同欣電",
     "DividendRecentAvg": 0.01784,
@@ -2276,6 +2260,17 @@
     "CurrentRecentTrendPercent": 0.0284,
     "CurrentRecentTrendComment": "連3漲",
     "URL": "https://tw.stock.yahoo.com/quote/6213/dividend"
+  },
+  {
+    "id": 1229,
+    "name": "聯華",
+    "DividendRecentAvg": 0,
+    "DividendRecentSlope": -999,
+    "Category": "",
+    "CurrentClosingPrice": 0,
+    "CurrentTurnover": 0,
+    "CurrentPEAvg": 0,
+    "URL": "https://tw.stock.yahoo.com/quote/1229/dividend"
   },
   {
     "id": 2360,
