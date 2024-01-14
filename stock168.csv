@@ -70,7 +70,7 @@ id,name,DividendRecentAvg,DividendRecentSlope,Category,CurrentClosingPrice,Curre
 3044,健鼎,0,0,電子零組件,191.5,0.5,0.0026,4200,17.05,29.5,0.0296,連3漲,https://tw.stock.yahoo.com/quote/3044/dividend
 6456,GIS-KY,0,0,光電,62.5,-0.9,-0.0142,413,0,0,0.0142,漲→跌,https://tw.stock.yahoo.com/quote/6456/dividend
 1326,台化,0,0,塑膠,60.1,-0.2,-0.0033,2020,375.63,74.98,0.0033,平→跌,https://tw.stock.yahoo.com/quote/1326/dividend
-1722,台肥,0,-999,,0,,,0,,0,,,https://tw.stock.yahoo.com/quote/1722/dividend
+1722,台肥,0,0,化學,65.1,-0.1,-0.0015,612,15.17,26.47,0.0426,連4跌,https://tw.stock.yahoo.com/quote/1722/dividend
 2409,友達,0,0,光電,18.25,-0.05,-0.0027,21972,0,0,0.0495,連4跌,https://tw.stock.yahoo.com/quote/2409/dividend
 3189,景碩,0,0,半導體,95.7,-0.5,-0.0052,1478,49.59,55.3,0.0294,連3跌,https://tw.stock.yahoo.com/quote/3189/dividend
 6531,愛普,0,0,半導體,514,16,0.0332,14082,73.01,55.3,0.0609,連4漲,https://tw.stock.yahoo.com/quote/6531/dividend
