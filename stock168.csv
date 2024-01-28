@@ -116,7 +116,7 @@ id,name,DividendRecentAvg,DividendRecentSlope,Category,CurrentClosingPrice,Curre
 3682,亞太電,0,-999,,0,,,0,,0,,,https://tw.stock.yahoo.com/quote/3682/dividend
 2325,矽品,0,-999,,0,,,0,,0,,,https://tw.stock.yahoo.com/quote/2325/dividend
 3481,群創,0,0,光電,17,0.2,0.0119,156479,0,0,0.0272,連3漲,https://tw.stock.yahoo.com/quote/3481/dividend
-2498,宏達電,0,-999,,0,,,0,,0,,,https://tw.stock.yahoo.com/quote/2498/dividend
+2498,宏達電,0,0,通訊網路,50,-0.5,-0.0099,3548,0,0,0.0329,連3跌,https://tw.stock.yahoo.com/quote/2498/dividend
 3702,大聯大,0,0,電子通路,89,0,0,6243,27.81,25.5,0,跌→平,https://tw.stock.yahoo.com/quote/3702/dividend
 4904,遠傳,0,0,通訊網路,79.8,0.1,0.0013,2126,23.89,36.67,0.0063,連2漲,https://tw.stock.yahoo.com/quote/4904/dividend
 2103,台橡,0,0,橡膠,22.4,0.1,0.0045,583,41.48,22.28,0.0045,跌→漲,https://tw.stock.yahoo.com/quote/2103/dividend
