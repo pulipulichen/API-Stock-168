@@ -2,7 +2,6 @@ id,name,DividendRecentAvg,DividendRecentSlope,Category,CurrentClosingPrice,Curre
 5522,遠雄,0.1391,0.002175,營建,57.1,-0.4,-0.007,361,13.53,66.65,0.0104,連2跌,https://tw.stock.yahoo.com/quote/5522/dividend
 2301,光寶科,0.09994,-0.0029,電腦週邊,113,1.5,0.0135,14508,17.41,50.08,0.0415,連3漲,https://tw.stock.yahoo.com/quote/2301/dividend
 2707,晶華,0.09168,-0.034775,觀光餐旅,216,1,0.0047,139,21.18,26.41,0.0165,連4漲,https://tw.stock.yahoo.com/quote/2707/dividend
-2474,可成,0.0736,-0.0046,其他電子,193.5,-2,-0.0102,878,12.99,21.7,0.0128,連2跌,https://tw.stock.yahoo.com/quote/2474/dividend
 2330,台積電,0.04974,-0.01086,半導體,646,11,0.0173,43957,18.7,54.21,0.0287,連2漲,https://tw.stock.yahoo.com/quote/2330/dividend
 2542,興富發,0.04334,-0.03585,營建,39.8,0.1,0.0025,2301,13.58,66.65,0.0051,連2漲,https://tw.stock.yahoo.com/quote/2542/dividend
 2206,三陽工業,0.04168,0.005825,汽車,72,0.5,0.007,2064,10.51,23.57,0.007,跌→漲,https://tw.stock.yahoo.com/quote/2206/dividend
@@ -40,6 +39,7 @@ id,name,DividendRecentAvg,DividendRecentSlope,Category,CurrentClosingPrice,Curre
 2886,兆豐金,0.0004,0,金融業,37.6,-0.3,-0.0079,15582,16.64,17.29,0.0079,平→跌,https://tw.stock.yahoo.com/quote/2886/dividend
 2207,和泰車,0.0004,0.0005,汽車,637,-6,-0.0093,279,38.17,23.57,0.0109,連2跌,https://tw.stock.yahoo.com/quote/2207/dividend
 2867,三商壽,0.0002,0,金融業,4.87,0.02,0.0041,6085,0,0,0.0041,平→漲,https://tw.stock.yahoo.com/quote/2867/dividend
+2474,可成,0,-999,,0,,,0,,0,,,https://tw.stock.yahoo.com/quote/2474/dividend
 1440,南紡,0,0,紡織,14.85,-0.15,-0.01,475,0,0,0.01,連2漲→跌,https://tw.stock.yahoo.com/quote/1440/dividend
 2345,智邦,0,0,通訊網路,548,-14,-0.0249,2756,33.93,36.44,0.0249,連3漲→跌,https://tw.stock.yahoo.com/quote/2345/dividend
 2809,京城銀,0,0,金融業,41.15,0.6,0.0148,2296,8.15,17.29,0.0148,跌→漲,https://tw.stock.yahoo.com/quote/2809/dividend
@@ -109,7 +109,7 @@ id,name,DividendRecentAvg,DividendRecentSlope,Category,CurrentClosingPrice,Curre
 3045,台灣大,0,0,通訊網路,98.5,0.2,0.002,1770,24.87,36.44,0.002,跌→漲,https://tw.stock.yahoo.com/quote/3045/dividend
 2449,京元電子,0,0,半導體,82.2,0,0,6669,17.42,54.21,0,連2跌→平,https://tw.stock.yahoo.com/quote/2449/dividend
 3673,TPK-KY,0,0,光電,34.45,-0.35,-0.0101,1377,61.52,39.3,0.0664,連5跌,https://tw.stock.yahoo.com/quote/3673/dividend
-2324,仁寶,0,0,電腦週邊,35.9,0.1,0.0028,18130,22.44,50.08,0.0028,跌→漲,https://tw.stock.yahoo.com/quote/2324/dividend
+2324,仁寶,0,-999,,0,,,0,,0,,,https://tw.stock.yahoo.com/quote/2324/dividend
 3474,華亞科,0,-999,,0,,,0,,0,,,https://tw.stock.yahoo.com/quote/3474/dividend
 2059,川湖,0,0,電子零組件,1010,-75,-0.0691,3165,34.14,30.74,0.0691,連2漲→跌,https://tw.stock.yahoo.com/quote/2059/dividend
 2451,創見,0,0,半導體,77.9,-0.8,-0.0102,378,22.19,54.21,0.0139,連2跌,https://tw.stock.yahoo.com/quote/2451/dividend

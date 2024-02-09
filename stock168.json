@@ -48,22 +48,6 @@
     "URL": "https://tw.stock.yahoo.com/quote/2707/dividend"
   },
   {
-    "id": 2474,
-    "name": "可成",
-    "DividendRecentAvg": 0.0736,
-    "DividendRecentSlope": -0.0046,
-    "Category": "其他電子",
-    "CurrentClosingPrice": 193.5,
-    "CurrentTrend": -2,
-    "CurrentTrendPercent": -0.0102,
-    "CurrentTurnover": 878,
-    "CurrentPE": 12.99,
-    "CurrentPEAvg": 21.7,
-    "CurrentRecentTrendPercent": 0.0128,
-    "CurrentRecentTrendComment": "連2跌",
-    "URL": "https://tw.stock.yahoo.com/quote/2474/dividend"
-  },
-  {
     "id": 2330,
     "name": "台積電",
     "DividendRecentAvg": 0.04974,
@@ -654,6 +638,17 @@
     "CurrentRecentTrendPercent": 0.0041,
     "CurrentRecentTrendComment": "平→漲",
     "URL": "https://tw.stock.yahoo.com/quote/2867/dividend"
+  },
+  {
+    "id": 2474,
+    "name": "可成",
+    "DividendRecentAvg": 0,
+    "DividendRecentSlope": -999,
+    "Category": "",
+    "CurrentClosingPrice": 0,
+    "CurrentTurnover": 0,
+    "CurrentPEAvg": 0,
+    "URL": "https://tw.stock.yahoo.com/quote/2474/dividend"
   },
   {
     "id": 1440,
@@ -1738,16 +1733,11 @@
     "id": 2324,
     "name": "仁寶",
     "DividendRecentAvg": 0,
-    "DividendRecentSlope": 0,
-    "Category": "電腦週邊",
-    "CurrentClosingPrice": 35.9,
-    "CurrentTrend": 0.1,
-    "CurrentTrendPercent": 0.0028,
-    "CurrentTurnover": 18130,
-    "CurrentPE": 22.44,
-    "CurrentPEAvg": 50.08,
-    "CurrentRecentTrendPercent": 0.0028,
-    "CurrentRecentTrendComment": "跌→漲",
+    "DividendRecentSlope": -999,
+    "Category": "",
+    "CurrentClosingPrice": 0,
+    "CurrentTurnover": 0,
+    "CurrentPEAvg": 0,
     "URL": "https://tw.stock.yahoo.com/quote/2324/dividend"
   },
   {
