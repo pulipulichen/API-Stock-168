@@ -83,7 +83,7 @@ id,name,DividendRecentAvg,DividendRecentSlope,Category,CurrentClosingPrice,Curre
 1907,永豐餘,0,0,造紙,30,-0.25,-0.0083,1240,38.96,76.66,0.0115,連2跌,https://tw.stock.yahoo.com/quote/1907/dividend
 2449,京元電子,0,0,半導體,94.8,1.3,0.0139,55754,20.08,74.83,0.0834,連2漲,https://tw.stock.yahoo.com/quote/2449/dividend
 2002,中鋼,0,0,鋼鐵,25,-0.15,-0.006,11625,0,0,0.0157,連4跌,https://tw.stock.yahoo.com/quote/2002/dividend
-2912,統一超,0,-999,,0,,,0,,0,,,https://tw.stock.yahoo.com/quote/2912/dividend
+2912,統一超,0,0,貿易百貨,270,1.5,0.0056,532,27.05,34.64,0.0056,跌→漲,https://tw.stock.yahoo.com/quote/2912/dividend
 3443,創意,0,0,半導體,1455,-10,-0.0068,2696,55.6,74.83,0.0673,連3跌,https://tw.stock.yahoo.com/quote/3443/dividend
 8464,億豐,0,0,居家生活,372,2,0.0054,324,19.67,16.62,0.099,連7漲,https://tw.stock.yahoo.com/quote/8464/dividend
 2105,正新,0,0,橡膠,46.3,0,0,3140,22.92,22.68,0,漲→平,https://tw.stock.yahoo.com/quote/2105/dividend
