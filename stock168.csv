@@ -64,7 +64,7 @@ id,name,DividendRecentAvg,DividendRecentSlope,Category,CurrentClosingPrice,Curre
 1590,亞德客-KY,0,0,電機機械,1070,25,0.0239,682,30.72,84.34,0.0239,跌→漲,https://tw.stock.yahoo.com/quote/1590/dividend
 2356,英業達,0,0,電腦週邊,54.1,-0.8,-0.0146,56173,31.64,133.68,0.0146,漲→跌,https://tw.stock.yahoo.com/quote/2356/dividend
 2849,安泰銀,0,0,金融業,13.95,-0.3,-0.0211,148,24.91,14.15,0.0211,漲→跌,https://tw.stock.yahoo.com/quote/2849/dividend
-1402,遠東新,0,0,紡織,32.9,0,0,22748,21.36,45.07,0,連2漲→平,https://tw.stock.yahoo.com/quote/1402/dividend
+1402,遠東新,0,-999,,0,,,0,,0,,,https://tw.stock.yahoo.com/quote/1402/dividend
 1605,華新,0,0,電器電纜,37.05,0.75,0.0207,27479,29.17,29.66,0.0571,連2漲,https://tw.stock.yahoo.com/quote/1605/dividend
 2360,致茂,0,0,其他電子,253,-1,-0.0039,1649,26.94,21.94,0.0612,連4跌,https://tw.stock.yahoo.com/quote/2360/dividend
 8464,億豐,0,0,居家生活,361.5,-2.5,-0.0069,902,19.3,16.15,0.0449,連3跌,https://tw.stock.yahoo.com/quote/8464/dividend
