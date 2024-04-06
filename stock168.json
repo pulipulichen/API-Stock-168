@@ -624,6 +624,22 @@
     "URL": "https://tw.stock.yahoo.com/quote/2886/dividend"
   },
   {
+    "id": 2207,
+    "name": "和泰車",
+    "DividendRecentAvg": 0.0004,
+    "DividendRecentSlope": null,
+    "Category": "汽車",
+    "CurrentClosingPrice": 638,
+    "CurrentTrend": -9,
+    "CurrentTrendPercent": -0.0139,
+    "CurrentTurnover": 280,
+    "CurrentPE": 15.55,
+    "CurrentPEAvg": 54.78,
+    "CurrentRecentTrendPercent": 0.0274,
+    "CurrentRecentTrendComment": "連2跌",
+    "URL": "https://tw.stock.yahoo.com/quote/2207/dividend"
+  },
+  {
     "id": 2867,
     "name": "三商壽",
     "DividendRecentAvg": 0.0002,
@@ -1279,17 +1295,6 @@
     "CurrentRecentTrendPercent": 0.0329,
     "CurrentRecentTrendComment": "連5跌",
     "URL": "https://tw.stock.yahoo.com/quote/9914/dividend"
-  },
-  {
-    "id": 2207,
-    "name": "和泰車",
-    "DividendRecentAvg": 0,
-    "DividendRecentSlope": -999,
-    "Category": "",
-    "CurrentClosingPrice": 0,
-    "CurrentTurnover": 0,
-    "CurrentPEAvg": 0,
-    "URL": "https://tw.stock.yahoo.com/quote/2207/dividend"
   },
   {
     "id": 1722,

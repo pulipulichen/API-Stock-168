@@ -38,6 +38,7 @@ id,name,DividendRecentAvg,DividendRecentSlope,Category,CurrentClosingPrice,Curre
 2890,永豐金,0.0006,0.0005,金融業,21,-0.35,-0.0164,16319,13.13,14.18,0.03,連3跌,https://tw.stock.yahoo.com/quote/2890/dividend
 2618,長榮航,0.0006,NaN,航運,31.4,-0.55,-0.0172,42276,7.85,24.21,0.0294,連2跌,https://tw.stock.yahoo.com/quote/2618/dividend
 2886,兆豐金,0.0004,0,金融業,39.75,-0.55,-0.0136,20442,16.84,14.18,0.0221,連2跌,https://tw.stock.yahoo.com/quote/2886/dividend
+2207,和泰車,0.0004,NaN,汽車,638,-9,-0.0139,280,15.55,54.78,0.0274,連2跌,https://tw.stock.yahoo.com/quote/2207/dividend
 2867,三商壽,0.0002,0,金融業,4.82,-0.02,-0.0041,2937,0,0,0.0041,漲→跌,https://tw.stock.yahoo.com/quote/2867/dividend
 1440,南紡,0,NaN,紡織,15.5,-0.1,-0.0064,871,12.2,47.13,0.0064,平→跌,https://tw.stock.yahoo.com/quote/1440/dividend
 2345,智邦,0,NaN,通訊網路,461,5,0.011,2118,28.85,90.26,0.011,連2跌→漲,https://tw.stock.yahoo.com/quote/2345/dividend
@@ -80,7 +81,6 @@ id,name,DividendRecentAvg,DividendRecentSlope,Category,CurrentClosingPrice,Curre
 1717,長興,0,0,化學,32.1,-0.6,-0.0183,2693,25.08,31.21,0.0183,連3漲→跌,https://tw.stock.yahoo.com/quote/1717/dividend
 2377,微星,0,NaN,電腦週邊,169.5,-0.5,-0.0029,2543,19,137.7,0.0029,漲→跌,https://tw.stock.yahoo.com/quote/2377/dividend
 9914,美利達,0,NaN,運動休閒,206,-1,-0.0048,732,36.4,26.88,0.0329,連5跌,https://tw.stock.yahoo.com/quote/9914/dividend
-2207,和泰車,0,-999,,0,,,0,,0,,,https://tw.stock.yahoo.com/quote/2207/dividend
 1722,台肥,0,NaN,化學,63.5,-0.4,-0.0063,1572,15.88,31.21,0.0063,連2漲→跌,https://tw.stock.yahoo.com/quote/1722/dividend
 2379,瑞昱,0,0,半導體,571,3,0.0053,3239,31.99,74.89,0.0215,連2漲,https://tw.stock.yahoo.com/quote/2379/dividend
 3034,聯詠,0,NaN,半導體,596,2,0.0034,1806,15.55,74.89,0.0119,連2漲,https://tw.stock.yahoo.com/quote/3034/dividend
