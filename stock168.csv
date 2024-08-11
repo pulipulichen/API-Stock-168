@@ -41,7 +41,7 @@ id,name,DividendRecentAvg,DividendRecentSlope,Category,CurrentClosingPrice,Curre
 2207,和泰車,0.0004,0,汽車,601,1,0.0017,610,14.14,23.57,0.0017,跌→漲,https://tw.stock.yahoo.com/quote/2207/dividend
 2867,三商壽,0.000284,0,金融業,7.28,0.11,0.0153,16029,0,0,0.0153,跌→漲,https://tw.stock.yahoo.com/quote/2867/dividend
 1440,南紡,0,0,紡織,16.15,0.05,0.0031,1839,10.77,37.31,0.0031,跌→漲,https://tw.stock.yahoo.com/quote/1440/dividend
-2345,智邦,0,-999,,0,,,0,,0,,,https://tw.stock.yahoo.com/quote/2345/dividend
+2345,智邦,0,0,通訊網路,493,2,0.0041,3821,29.09,33.8,0.0041,跌→漲,https://tw.stock.yahoo.com/quote/2345/dividend
 2809,京城銀,0,0,金融業,52.7,0.1,0.0019,2171,7.92,14.37,0.0019,跌→漲,https://tw.stock.yahoo.com/quote/2809/dividend
 2347,聯強,0,0,電子通路,70.5,0.8,0.0115,4037,14.9,25.15,0.0115,跌→漲,https://tw.stock.yahoo.com/quote/2347/dividend
 6415,矽力-KY,0,0,半導體,393,5.5,0.0142,3130,248.73,62.6,0.0142,跌→漲,https://tw.stock.yahoo.com/quote/6415/dividend
