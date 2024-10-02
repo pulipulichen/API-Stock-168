@@ -9,10 +9,10 @@
     "CurrentTrend": 0.9,
     "CurrentTrendPercent": 0.0125,
     "CurrentTurnover": 1003,
-    "CurrentPE": 13.75,
-    "CurrentPEAvg": 31.6,
-    "CurrentRecentTrendPercent": 0.0099,
-    "CurrentRecentTrendComment": "連2漲→跌",
+    "CurrentPE": 13.93,
+    "CurrentPEAvg": 31.18,
+    "CurrentRecentTrendPercent": 0.0401,
+    "CurrentRecentTrendComment": "連3漲",
     "URL": "https://tw.stock.yahoo.com/quote/5522/dividend"
   },
   {
@@ -25,10 +25,10 @@
     "CurrentTrend": 2,
     "CurrentTrendPercent": 0.0201,
     "CurrentTurnover": 5729,
-    "CurrentPE": 16.92,
-    "CurrentPEAvg": 53.92,
-    "CurrentRecentTrendPercent": 0.005,
-    "CurrentRecentTrendComment": "連2漲→跌",
+    "CurrentPE": 17.26,
+    "CurrentPEAvg": 53.59,
+    "CurrentRecentTrendPercent": 0.0201,
+    "CurrentRecentTrendComment": "跌→漲",
     "URL": "https://tw.stock.yahoo.com/quote/2301/dividend"
   },
   {
@@ -41,10 +41,10 @@
     "CurrentTrend": 1,
     "CurrentTrendPercent": 0.0049,
     "CurrentTurnover": 101,
-    "CurrentPE": 18.08,
-    "CurrentPEAvg": 24.7,
-    "CurrentRecentTrendPercent": 0.0025,
-    "CurrentRecentTrendComment": "漲→跌",
+    "CurrentPE": 18.17,
+    "CurrentPEAvg": 24.81,
+    "CurrentRecentTrendPercent": 0.0049,
+    "CurrentRecentTrendComment": "跌→漲",
     "URL": "https://tw.stock.yahoo.com/quote/2707/dividend"
   },
   {
@@ -57,9 +57,9 @@
     "CurrentTrend": 3,
     "CurrentTrendPercent": 0.0127,
     "CurrentTurnover": 1470,
-    "CurrentPE": 13.64,
-    "CurrentPEAvg": 34.91,
-    "CurrentRecentTrendPercent": 0.0128,
+    "CurrentPE": 13.81,
+    "CurrentPEAvg": 35.3,
+    "CurrentRecentTrendPercent": 0.0191,
     "CurrentRecentTrendComment": "連2漲",
     "URL": "https://tw.stock.yahoo.com/quote/2474/dividend"
   },
@@ -73,10 +73,10 @@
     "CurrentTrend": -0.2,
     "CurrentTrendPercent": -0.0027,
     "CurrentTurnover": 1212,
-    "CurrentPE": 10.83,
-    "CurrentPEAvg": 25.14,
-    "CurrentRecentTrendPercent": 0.0027,
-    "CurrentRecentTrendComment": "平→漲",
+    "CurrentPE": 10.8,
+    "CurrentPEAvg": 25.12,
+    "CurrentRecentTrendPercent": 0.0241,
+    "CurrentRecentTrendComment": "連3跌",
     "URL": "https://tw.stock.yahoo.com/quote/2206/dividend"
   },
   {
@@ -89,10 +89,10 @@
     "CurrentTrend": 15,
     "CurrentTrendPercent": 0.0157,
     "CurrentTurnover": 26734,
-    "CurrentPE": 26.88,
-    "CurrentPEAvg": 66.26,
-    "CurrentRecentTrendPercent": 0.0786,
-    "CurrentRecentTrendComment": "連6漲",
+    "CurrentPE": 27.3,
+    "CurrentPEAvg": 66.29,
+    "CurrentRecentTrendPercent": 0.0157,
+    "CurrentRecentTrendComment": "連2跌→漲",
     "URL": "https://tw.stock.yahoo.com/quote/2330/dividend"
   },
   {
@@ -105,10 +105,10 @@
     "CurrentTrend": 85,
     "CurrentTrendPercent": 0.0335,
     "CurrentTurnover": 747,
-    "CurrentPE": 15.75,
-    "CurrentPEAvg": 54.37,
-    "CurrentRecentTrendPercent": 0.0095,
-    "CurrentRecentTrendComment": "漲→跌",
+    "CurrentPE": 16.28,
+    "CurrentPEAvg": 54.96,
+    "CurrentRecentTrendPercent": 0.0335,
+    "CurrentRecentTrendComment": "跌→漲",
     "URL": "https://tw.stock.yahoo.com/quote/3008/dividend"
   },
   {
@@ -121,10 +121,10 @@
     "CurrentTrend": -0.5,
     "CurrentTrendPercent": -0.0111,
     "CurrentTurnover": 4625,
-    "CurrentPE": 38.55,
-    "CurrentPEAvg": 31.6,
-    "CurrentRecentTrendPercent": 0.0275,
-    "CurrentRecentTrendComment": "連3漲",
+    "CurrentPE": 38.12,
+    "CurrentPEAvg": 31.18,
+    "CurrentRecentTrendPercent": 0.0219,
+    "CurrentRecentTrendComment": "連2跌",
     "URL": "https://tw.stock.yahoo.com/quote/2542/dividend"
   },
   {
@@ -137,10 +137,10 @@
     "CurrentTrend": -3,
     "CurrentTrendPercent": -0.0048,
     "CurrentTurnover": 1598,
-    "CurrentPE": 13.28,
-    "CurrentPEAvg": 78.85,
-    "CurrentRecentTrendPercent": 0.0795,
-    "CurrentRecentTrendComment": "連4漲",
+    "CurrentPE": 13.21,
+    "CurrentPEAvg": 79.57,
+    "CurrentRecentTrendPercent": 0.0491,
+    "CurrentRecentTrendComment": "連3跌",
     "URL": "https://tw.stock.yahoo.com/quote/2327/dividend"
   },
   {
@@ -153,10 +153,10 @@
     "CurrentTrend": -0.3,
     "CurrentTrendPercent": -0.0063,
     "CurrentTurnover": 5702,
-    "CurrentPE": 15.11,
-    "CurrentPEAvg": 42.37,
-    "CurrentRecentTrendPercent": 0.0313,
-    "CurrentRecentTrendComment": "連6漲",
+    "CurrentPE": 15.02,
+    "CurrentPEAvg": 42.13,
+    "CurrentRecentTrendPercent": 0.0063,
+    "CurrentRecentTrendComment": "連8漲→跌",
     "URL": "https://tw.stock.yahoo.com/quote/1102/dividend"
   },
   {
@@ -169,10 +169,10 @@
     "CurrentTrend": 4,
     "CurrentTrendPercent": 0.0152,
     "CurrentTurnover": 13485,
-    "CurrentPE": 20.25,
-    "CurrentPEAvg": 53.92,
-    "CurrentRecentTrendPercent": 0.0741,
-    "CurrentRecentTrendComment": "連2漲",
+    "CurrentPE": 20.55,
+    "CurrentPEAvg": 53.59,
+    "CurrentRecentTrendPercent": 0.0152,
+    "CurrentRecentTrendComment": "跌→漲",
     "URL": "https://tw.stock.yahoo.com/quote/2382/dividend"
   },
   {
@@ -185,10 +185,10 @@
     "CurrentTrend": -0.7,
     "CurrentTrendPercent": -0.0143,
     "CurrentTurnover": 5835,
-    "CurrentPE": 10.07,
-    "CurrentPEAvg": 27.9,
-    "CurrentRecentTrendPercent": 0.0224,
-    "CurrentRecentTrendComment": "連3漲",
+    "CurrentPE": 9.93,
+    "CurrentPEAvg": 27.84,
+    "CurrentRecentTrendPercent": 0.0143,
+    "CurrentRecentTrendComment": "連5漲→跌",
     "URL": "https://tw.stock.yahoo.com/quote/9945/dividend"
   },
   {
@@ -201,9 +201,9 @@
     "CurrentTrend": -0.6,
     "CurrentTrendPercent": -0.0122,
     "CurrentTurnover": 1338,
-    "CurrentPE": 64.74,
-    "CurrentPEAvg": 24.63,
-    "CurrentRecentTrendPercent": 0.0041,
+    "CurrentPE": 63.95,
+    "CurrentPEAvg": 24.48,
+    "CurrentRecentTrendPercent": 0.0122,
     "CurrentRecentTrendComment": "連2漲→跌",
     "URL": "https://tw.stock.yahoo.com/quote/2101/dividend"
   },
@@ -217,10 +217,10 @@
     "CurrentTrend": -4,
     "CurrentTrendPercent": -0.0102,
     "CurrentTurnover": 427,
-    "CurrentPE": 26.5,
-    "CurrentPEAvg": 34.24,
-    "CurrentRecentTrendPercent": 0.0298,
-    "CurrentRecentTrendComment": "連2漲",
+    "CurrentPE": 26.23,
+    "CurrentPEAvg": 34.31,
+    "CurrentRecentTrendPercent": 0.0201,
+    "CurrentRecentTrendComment": "連2跌",
     "URL": "https://tw.stock.yahoo.com/quote/8454/dividend"
   },
   {
@@ -233,10 +233,10 @@
     "CurrentTrend": 12,
     "CurrentTrendPercent": 0.0344,
     "CurrentTurnover": 2993,
-    "CurrentPE": 20.02,
-    "CurrentPEAvg": 38.73,
-    "CurrentRecentTrendPercent": 0.0625,
-    "CurrentRecentTrendComment": "連3跌",
+    "CurrentPE": 20.71,
+    "CurrentPEAvg": 38.6,
+    "CurrentRecentTrendPercent": 0.0344,
+    "CurrentRecentTrendComment": "連5跌→漲",
     "URL": "https://tw.stock.yahoo.com/quote/1477/dividend"
   },
   {
@@ -249,10 +249,10 @@
     "CurrentTrend": -3.5,
     "CurrentTrendPercent": -0.0224,
     "CurrentTurnover": 916,
-    "CurrentPE": 26.17,
-    "CurrentPEAvg": 31.29,
-    "CurrentRecentTrendPercent": 0.0194,
-    "CurrentRecentTrendComment": "漲→跌",
+    "CurrentPE": 25.59,
+    "CurrentPEAvg": 31.01,
+    "CurrentRecentTrendPercent": 0.0224,
+    "CurrentRecentTrendComment": "連2漲→跌",
     "URL": "https://tw.stock.yahoo.com/quote/9910/dividend"
   },
   {
@@ -265,10 +265,10 @@
     "CurrentTrend": 0.6,
     "CurrentTrendPercent": 0.0214,
     "CurrentTurnover": 19875,
-    "CurrentPE": 18.45,
-    "CurrentPEAvg": 13.85,
-    "CurrentRecentTrendPercent": 0.0053,
-    "CurrentRecentTrendComment": "平→漲",
+    "CurrentPE": 18.85,
+    "CurrentPEAvg": 13.82,
+    "CurrentRecentTrendPercent": 0.0214,
+    "CurrentRecentTrendComment": "連2跌→漲",
     "URL": "https://tw.stock.yahoo.com/quote/2884/dividend"
   },
   {
@@ -281,10 +281,10 @@
     "CurrentTrend": 0.1,
     "CurrentTrendPercent": 0.0013,
     "CurrentTurnover": 1926,
-    "CurrentPE": 7.49,
-    "CurrentPEAvg": 27.46,
-    "CurrentRecentTrendPercent": 0.0064,
-    "CurrentRecentTrendComment": "連2跌",
+    "CurrentPE": 7.5,
+    "CurrentPEAvg": 27.45,
+    "CurrentRecentTrendPercent": 0.0013,
+    "CurrentRecentTrendComment": "跌→漲",
     "URL": "https://tw.stock.yahoo.com/quote/2915/dividend"
   },
   {
@@ -297,10 +297,10 @@
     "CurrentTrend": -0.1,
     "CurrentTrendPercent": -0.0063,
     "CurrentTurnover": 12188,
-    "CurrentPE": 12.36,
-    "CurrentPEAvg": 13.85,
-    "CurrentRecentTrendPercent": 0,
-    "CurrentRecentTrendComment": "漲→平",
+    "CurrentPE": 12.29,
+    "CurrentPEAvg": 13.82,
+    "CurrentRecentTrendPercent": 0.0063,
+    "CurrentRecentTrendComment": "平→跌",
     "URL": "https://tw.stock.yahoo.com/quote/2834/dividend"
   },
   {
@@ -313,10 +313,10 @@
     "CurrentTrend": -0.1,
     "CurrentTrendPercent": -0.0054,
     "CurrentTurnover": 2958,
-    "CurrentPE": 11.95,
-    "CurrentPEAvg": 13.85,
-    "CurrentRecentTrendPercent": 0.0027,
-    "CurrentRecentTrendComment": "漲→跌",
+    "CurrentPE": 11.88,
+    "CurrentPEAvg": 13.82,
+    "CurrentRecentTrendPercent": 0.0081,
+    "CurrentRecentTrendComment": "連2跌",
     "URL": "https://tw.stock.yahoo.com/quote/2812/dividend"
   },
   {
@@ -329,10 +329,10 @@
     "CurrentTrend": 0.3,
     "CurrentTrendPercent": 0.0033,
     "CurrentTurnover": 16225,
-    "CurrentPE": 12.66,
-    "CurrentPEAvg": 13.85,
-    "CurrentRecentTrendPercent": 0.0032,
-    "CurrentRecentTrendComment": "連9漲→跌",
+    "CurrentPE": 12.7,
+    "CurrentPEAvg": 13.82,
+    "CurrentRecentTrendPercent": 0.0033,
+    "CurrentRecentTrendComment": "連3跌→漲",
     "URL": "https://tw.stock.yahoo.com/quote/2881/dividend"
   },
   {
@@ -345,10 +345,10 @@
     "CurrentTrend": 1.2,
     "CurrentTrendPercent": 0.0122,
     "CurrentTurnover": 69171,
-    "CurrentPE": 18.53,
-    "CurrentPEAvg": 17.52,
-    "CurrentRecentTrendPercent": 0.3027,
-    "CurrentRecentTrendComment": "連7漲",
+    "CurrentPE": 18.75,
+    "CurrentPEAvg": 17.62,
+    "CurrentRecentTrendPercent": 0.0122,
+    "CurrentRecentTrendComment": "跌→漲",
     "URL": "https://tw.stock.yahoo.com/quote/2615/dividend"
   },
   {
@@ -361,9 +361,9 @@
     "CurrentTrend": -0.1,
     "CurrentTrendPercent": -0.003,
     "CurrentTurnover": 15731,
-    "CurrentPE": 35.96,
-    "CurrentPEAvg": 42.37,
-    "CurrentRecentTrendPercent": 0.0046,
+    "CurrentPE": 35.85,
+    "CurrentPEAvg": 42.13,
+    "CurrentRecentTrendPercent": 0.003,
     "CurrentRecentTrendComment": "連2漲→跌",
     "URL": "https://tw.stock.yahoo.com/quote/1101/dividend"
   },
@@ -377,10 +377,10 @@
     "CurrentTrend": 4.5,
     "CurrentTrendPercent": 0.0452,
     "CurrentTurnover": 2197,
-    "CurrentPE": 51.82,
-    "CurrentPEAvg": 25.14,
-    "CurrentRecentTrendPercent": 0.0051,
-    "CurrentRecentTrendComment": "漲→跌",
+    "CurrentPE": 54.17,
+    "CurrentPEAvg": 25.12,
+    "CurrentRecentTrendPercent": 0.0634,
+    "CurrentRecentTrendComment": "連3漲",
     "URL": "https://tw.stock.yahoo.com/quote/2231/dividend"
   },
   {
@@ -394,9 +394,9 @@
     "CurrentTrendPercent": 0,
     "CurrentTurnover": 35344,
     "CurrentPE": 15.33,
-    "CurrentPEAvg": 13.85,
+    "CurrentPEAvg": 13.82,
     "CurrentRecentTrendPercent": 0,
-    "CurrentRecentTrendComment": "連2平",
+    "CurrentRecentTrendComment": "連5平",
     "URL": "https://tw.stock.yahoo.com/quote/2887/dividend"
   },
   {
@@ -409,10 +409,10 @@
     "CurrentTrend": -5,
     "CurrentTrendPercent": -0.0306,
     "CurrentTurnover": 15179,
-    "CurrentPE": 11.93,
-    "CurrentPEAvg": 27.9,
-    "CurrentRecentTrendPercent": 0.0225,
-    "CurrentRecentTrendComment": "連2漲→跌",
+    "CurrentPE": 11.56,
+    "CurrentPEAvg": 27.84,
+    "CurrentRecentTrendPercent": 0.0306,
+    "CurrentRecentTrendComment": "平→跌",
     "URL": "https://tw.stock.yahoo.com/quote/5871/dividend"
   },
   {
@@ -425,10 +425,10 @@
     "CurrentTrend": -2.5,
     "CurrentTrendPercent": -0.0078,
     "CurrentTurnover": 1246,
-    "CurrentPE": 30.91,
-    "CurrentPEAvg": 53.92,
-    "CurrentRecentTrendPercent": 0.0196,
-    "CurrentRecentTrendComment": "連2漲",
+    "CurrentPE": 30.67,
+    "CurrentPEAvg": 53.59,
+    "CurrentRecentTrendPercent": 0.0576,
+    "CurrentRecentTrendComment": "連3跌",
     "URL": "https://tw.stock.yahoo.com/quote/2395/dividend"
   },
   {
@@ -441,10 +441,10 @@
     "CurrentTrend": 0.05,
     "CurrentTrendPercent": 0.0019,
     "CurrentTurnover": 4525,
-    "CurrentPE": 21.4,
-    "CurrentPEAvg": 13.85,
-    "CurrentRecentTrendPercent": 0.0136,
-    "CurrentRecentTrendComment": "連5漲",
+    "CurrentPE": 21.45,
+    "CurrentPEAvg": 13.82,
+    "CurrentRecentTrendPercent": 0.0019,
+    "CurrentRecentTrendComment": "跌→漲",
     "URL": "https://tw.stock.yahoo.com/quote/5880/dividend"
   },
   {
@@ -457,10 +457,10 @@
     "CurrentTrend": -0.1,
     "CurrentTrendPercent": -0.0039,
     "CurrentTurnover": 7237,
-    "CurrentPE": 15.67,
-    "CurrentPEAvg": 13.85,
-    "CurrentRecentTrendPercent": 0,
-    "CurrentRecentTrendComment": "連3平",
+    "CurrentPE": 15.61,
+    "CurrentPEAvg": 13.82,
+    "CurrentRecentTrendPercent": 0.0154,
+    "CurrentRecentTrendComment": "連3跌",
     "URL": "https://tw.stock.yahoo.com/quote/2880/dividend"
   },
   {
@@ -473,10 +473,10 @@
     "CurrentTrend": -0.15,
     "CurrentTrendPercent": -0.0108,
     "CurrentTurnover": 5088,
-    "CurrentPE": 12.41,
-    "CurrentPEAvg": 13.85,
-    "CurrentRecentTrendPercent": 0.0036,
-    "CurrentRecentTrendComment": "平→漲",
+    "CurrentPE": 12.28,
+    "CurrentPEAvg": 13.82,
+    "CurrentRecentTrendPercent": 0.0179,
+    "CurrentRecentTrendComment": "連2跌",
     "URL": "https://tw.stock.yahoo.com/quote/2845/dividend"
   },
   {
@@ -489,9 +489,9 @@
     "CurrentTrend": -0.2,
     "CurrentTrendPercent": -0.0112,
     "CurrentTurnover": 15758,
-    "CurrentPE": 14.44,
-    "CurrentPEAvg": 13.85,
-    "CurrentRecentTrendPercent": 0.0056,
+    "CurrentPE": 14.27,
+    "CurrentPEAvg": 13.82,
+    "CurrentRecentTrendPercent": 0.0112,
     "CurrentRecentTrendComment": "漲→跌",
     "URL": "https://tw.stock.yahoo.com/quote/2801/dividend"
   },
@@ -505,10 +505,10 @@
     "CurrentTrend": -0.15,
     "CurrentTrendPercent": -0.0055,
     "CurrentTurnover": 10680,
-    "CurrentPE": 16.21,
-    "CurrentPEAvg": 13.85,
-    "CurrentRecentTrendPercent": 0.0239,
-    "CurrentRecentTrendComment": "連6漲",
+    "CurrentPE": 16.12,
+    "CurrentPEAvg": 13.82,
+    "CurrentRecentTrendPercent": 0.0198,
+    "CurrentRecentTrendComment": "連2跌",
     "URL": "https://tw.stock.yahoo.com/quote/2892/dividend"
   },
   {
@@ -521,10 +521,10 @@
     "CurrentTrend": -0.2,
     "CurrentTrendPercent": -0.0063,
     "CurrentTurnover": 12262,
-    "CurrentPE": 13.72,
-    "CurrentPEAvg": 13.85,
-    "CurrentRecentTrendPercent": 0.0094,
-    "CurrentRecentTrendComment": "連5漲→跌",
+    "CurrentPE": 13.64,
+    "CurrentPEAvg": 13.82,
+    "CurrentRecentTrendPercent": 0.0079,
+    "CurrentRecentTrendComment": "連2跌",
     "URL": "https://tw.stock.yahoo.com/quote/2885/dividend"
   },
   {
@@ -537,10 +537,10 @@
     "CurrentTrend": -1.5,
     "CurrentTrendPercent": -0.0052,
     "CurrentTurnover": 328,
-    "CurrentPE": 17.03,
-    "CurrentPEAvg": 53.92,
-    "CurrentRecentTrendPercent": 0,
-    "CurrentRecentTrendComment": "漲→平",
+    "CurrentPE": 16.94,
+    "CurrentPEAvg": 53.59,
+    "CurrentRecentTrendPercent": 0.012,
+    "CurrentRecentTrendComment": "連2跌",
     "URL": "https://tw.stock.yahoo.com/quote/6414/dividend"
   },
   {
@@ -553,10 +553,10 @@
     "CurrentTrend": 0.5,
     "CurrentTrendPercent": 0.0023,
     "CurrentTurnover": 2104,
-    "CurrentPE": 38.98,
-    "CurrentPEAvg": 55.7,
-    "CurrentRecentTrendPercent": 0.0231,
-    "CurrentRecentTrendComment": "連2漲→跌",
+    "CurrentPE": 39.07,
+    "CurrentPEAvg": 56.24,
+    "CurrentRecentTrendPercent": 0.0023,
+    "CurrentRecentTrendComment": "跌→漲",
     "URL": "https://tw.stock.yahoo.com/quote/2049/dividend"
   },
   {
@@ -569,10 +569,10 @@
     "CurrentTrend": -0.35,
     "CurrentTrendPercent": -0.0113,
     "CurrentTurnover": 1451,
-    "CurrentPE": 17.09,
-    "CurrentPEAvg": 24.63,
-    "CurrentRecentTrendPercent": 0.0017,
-    "CurrentRecentTrendComment": "跌→漲",
+    "CurrentPE": 16.9,
+    "CurrentPEAvg": 24.48,
+    "CurrentRecentTrendPercent": 0.0113,
+    "CurrentRecentTrendComment": "連3漲→跌",
     "URL": "https://tw.stock.yahoo.com/quote/2106/dividend"
   },
   {
@@ -585,10 +585,10 @@
     "CurrentTrend": 0.15,
     "CurrentTrendPercent": 0.0038,
     "CurrentTurnover": 6960,
-    "CurrentPE": 16.24,
-    "CurrentPEAvg": 13.85,
-    "CurrentRecentTrendPercent": 0.0191,
-    "CurrentRecentTrendComment": "連5漲",
+    "CurrentPE": 16.3,
+    "CurrentPEAvg": 13.82,
+    "CurrentRecentTrendPercent": 0.0038,
+    "CurrentRecentTrendComment": "連2跌→漲",
     "URL": "https://tw.stock.yahoo.com/quote/2886/dividend"
   },
   {
@@ -601,10 +601,10 @@
     "CurrentTrend": -0.3,
     "CurrentTrendPercent": -0.0124,
     "CurrentTurnover": 11916,
-    "CurrentPE": 13.7,
-    "CurrentPEAvg": 13.85,
-    "CurrentRecentTrendPercent": 0.0104,
-    "CurrentRecentTrendComment": "連2跌→漲",
+    "CurrentPE": 13.53,
+    "CurrentPEAvg": 13.82,
+    "CurrentRecentTrendPercent": 0.0124,
+    "CurrentRecentTrendComment": "漲→跌",
     "URL": "https://tw.stock.yahoo.com/quote/2890/dividend"
   },
   {
@@ -617,10 +617,10 @@
     "CurrentTrend": 0.3,
     "CurrentTrendPercent": 0.008,
     "CurrentTurnover": 28005,
-    "CurrentPE": 8.56,
-    "CurrentPEAvg": 17.52,
-    "CurrentRecentTrendPercent": 0.0145,
-    "CurrentRecentTrendComment": "連2跌",
+    "CurrentPE": 8.63,
+    "CurrentPEAvg": 17.62,
+    "CurrentRecentTrendPercent": 0.008,
+    "CurrentRecentTrendComment": "平→漲",
     "URL": "https://tw.stock.yahoo.com/quote/2618/dividend"
   },
   {
@@ -633,10 +633,10 @@
     "CurrentTrend": -14,
     "CurrentTrendPercent": -0.0197,
     "CurrentTurnover": 183,
-    "CurrentPE": 17.55,
-    "CurrentPEAvg": 25.14,
-    "CurrentRecentTrendPercent": 0.1071,
-    "CurrentRecentTrendComment": "連8漲",
+    "CurrentPE": 17.2,
+    "CurrentPEAvg": 25.12,
+    "CurrentRecentTrendPercent": 0.0252,
+    "CurrentRecentTrendComment": "連2跌",
     "URL": "https://tw.stock.yahoo.com/quote/2207/dividend"
   },
   {
@@ -649,10 +649,10 @@
     "CurrentTrend": -0.1,
     "CurrentTrendPercent": -0.0132,
     "CurrentTurnover": 12463,
-    "CurrentPE": 27.04,
-    "CurrentPEAvg": 13.85,
-    "CurrentRecentTrendPercent": 0.038,
-    "CurrentRecentTrendComment": "連4跌",
+    "CurrentPE": 26.68,
+    "CurrentPEAvg": 13.82,
+    "CurrentRecentTrendPercent": 0.0158,
+    "CurrentRecentTrendComment": "連2跌",
     "URL": "https://tw.stock.yahoo.com/quote/2867/dividend"
   },
   {
@@ -665,10 +665,10 @@
     "CurrentTrend": 0.2,
     "CurrentTrendPercent": 0.0123,
     "CurrentTurnover": 881,
-    "CurrentPE": 10.8,
-    "CurrentPEAvg": 38.73,
-    "CurrentRecentTrendPercent": 0.0125,
-    "CurrentRecentTrendComment": "連2跌",
+    "CurrentPE": 10.93,
+    "CurrentPEAvg": 38.6,
+    "CurrentRecentTrendPercent": 0.0123,
+    "CurrentRecentTrendComment": "跌→漲",
     "URL": "https://tw.stock.yahoo.com/quote/1440/dividend"
   },
   {
@@ -681,9 +681,9 @@
     "CurrentTrend": -8,
     "CurrentTrendPercent": -0.015,
     "CurrentTurnover": 2283,
-    "CurrentPE": 31.39,
-    "CurrentPEAvg": 78.79,
-    "CurrentRecentTrendPercent": 0.0601,
+    "CurrentPE": 30.91,
+    "CurrentPEAvg": 78.71,
+    "CurrentRecentTrendPercent": 0.0332,
     "CurrentRecentTrendComment": "連2跌",
     "URL": "https://tw.stock.yahoo.com/quote/2345/dividend"
   },
@@ -697,10 +697,10 @@
     "CurrentTrend": 0.3,
     "CurrentTrendPercent": 0.0054,
     "CurrentTurnover": 2947,
-    "CurrentPE": 8.78,
-    "CurrentPEAvg": 13.85,
-    "CurrentRecentTrendPercent": 0.0161,
-    "CurrentRecentTrendComment": "連2漲",
+    "CurrentPE": 8.82,
+    "CurrentPEAvg": 13.82,
+    "CurrentRecentTrendPercent": 0.0054,
+    "CurrentRecentTrendComment": "連2跌→漲",
     "URL": "https://tw.stock.yahoo.com/quote/2809/dividend"
   },
   {
@@ -713,10 +713,10 @@
     "CurrentTrend": -1.9,
     "CurrentTrendPercent": -0.0262,
     "CurrentTurnover": 7530,
-    "CurrentPE": 15.33,
-    "CurrentPEAvg": 21.41,
-    "CurrentRecentTrendPercent": 0.0151,
-    "CurrentRecentTrendComment": "連2漲→跌",
+    "CurrentPE": 14.93,
+    "CurrentPEAvg": 21.42,
+    "CurrentRecentTrendPercent": 0.0329,
+    "CurrentRecentTrendComment": "連2跌",
     "URL": "https://tw.stock.yahoo.com/quote/2347/dividend"
   },
   {
@@ -729,9 +729,9 @@
     "CurrentTrend": 12,
     "CurrentTrendPercent": 0.0256,
     "CurrentTurnover": 3773,
-    "CurrentPE": 141.82,
-    "CurrentPEAvg": 66.26,
-    "CurrentRecentTrendPercent": 0.0432,
+    "CurrentPE": 145.45,
+    "CurrentPEAvg": 66.29,
+    "CurrentRecentTrendPercent": 0.0256,
     "CurrentRecentTrendComment": "跌→漲",
     "URL": "https://tw.stock.yahoo.com/quote/6415/dividend"
   },
@@ -745,10 +745,10 @@
     "CurrentTrend": 1.8,
     "CurrentTrendPercent": 0.0206,
     "CurrentTurnover": 7489,
-    "CurrentPE": 26.67,
-    "CurrentPEAvg": 30.41,
-    "CurrentRecentTrendPercent": 0.0011,
-    "CurrentRecentTrendComment": "連2漲→跌",
+    "CurrentPE": 27.22,
+    "CurrentPEAvg": 30.44,
+    "CurrentRecentTrendPercent": 0.0206,
+    "CurrentRecentTrendComment": "連3跌→漲",
     "URL": "https://tw.stock.yahoo.com/quote/1216/dividend"
   },
   {
@@ -761,10 +761,10 @@
     "CurrentTrend": -1.05,
     "CurrentTrendPercent": -0.0215,
     "CurrentTurnover": 4884,
-    "CurrentPE": 21.13,
-    "CurrentPEAvg": 55.7,
-    "CurrentRecentTrendPercent": 0.004,
-    "CurrentRecentTrendComment": "漲→跌",
+    "CurrentPE": 20.67,
+    "CurrentPEAvg": 56.24,
+    "CurrentRecentTrendPercent": 0.0383,
+    "CurrentRecentTrendComment": "連2跌",
     "URL": "https://tw.stock.yahoo.com/quote/1504/dividend"
   },
   {
@@ -778,9 +778,9 @@
     "CurrentTrendPercent": 0,
     "CurrentTurnover": 3133,
     "CurrentPE": 28.85,
-    "CurrentPEAvg": 53.92,
-    "CurrentRecentTrendPercent": 0.0027,
-    "CurrentRecentTrendComment": "連3漲→跌",
+    "CurrentPEAvg": 53.59,
+    "CurrentRecentTrendPercent": 0,
+    "CurrentRecentTrendComment": "跌→平",
     "URL": "https://tw.stock.yahoo.com/quote/2352/dividend"
   },
   {
@@ -815,10 +815,10 @@
     "CurrentTrend": -0.5,
     "CurrentTrendPercent": -0.0093,
     "CurrentTurnover": 13468,
-    "CurrentPE": 63.69,
-    "CurrentPEAvg": 55.08,
-    "CurrentRecentTrendPercent": 0.0099,
-    "CurrentRecentTrendComment": "漲→跌",
+    "CurrentPE": 63.1,
+    "CurrentPEAvg": 55.07,
+    "CurrentRecentTrendPercent": 0.0093,
+    "CurrentRecentTrendComment": "平→跌",
     "URL": "https://tw.stock.yahoo.com/quote/1301/dividend"
   },
   {
@@ -831,10 +831,10 @@
     "CurrentTrend": -0.4,
     "CurrentTrendPercent": -0.007,
     "CurrentTurnover": 1311,
-    "CurrentPE": 98.97,
-    "CurrentPEAvg": 25.14,
-    "CurrentRecentTrendPercent": 0.0138,
-    "CurrentRecentTrendComment": "連2漲→跌",
+    "CurrentPE": 98.28,
+    "CurrentPEAvg": 25.12,
+    "CurrentRecentTrendPercent": 0.0087,
+    "CurrentRecentTrendComment": "連2跌",
     "URL": "https://tw.stock.yahoo.com/quote/1536/dividend"
   },
   {
@@ -847,10 +847,10 @@
     "CurrentTrend": 1.45,
     "CurrentTrendPercent": 0.0355,
     "CurrentTurnover": 28054,
-    "CurrentPE": 21.82,
-    "CurrentPEAvg": 53.92,
-    "CurrentRecentTrendPercent": 0.0036,
-    "CurrentRecentTrendComment": "平→跌",
+    "CurrentPE": 22.59,
+    "CurrentPEAvg": 53.59,
+    "CurrentRecentTrendPercent": 0.0355,
+    "CurrentRecentTrendComment": "連3跌→漲",
     "URL": "https://tw.stock.yahoo.com/quote/2353/dividend"
   },
   {
@@ -865,8 +865,8 @@
     "CurrentTurnover": 363,
     "CurrentPE": 0,
     "CurrentPEAvg": 0,
-    "CurrentRecentTrendPercent": 0.0153,
-    "CurrentRecentTrendComment": "漲→跌",
+    "CurrentRecentTrendPercent": 0.0068,
+    "CurrentRecentTrendComment": "跌→漲",
     "URL": "https://tw.stock.yahoo.com/quote/6456/dividend"
   },
   {
@@ -879,10 +879,10 @@
     "CurrentTrend": 0.1,
     "CurrentTrendPercent": 0.0022,
     "CurrentTurnover": 6998,
-    "CurrentPE": 48.94,
-    "CurrentPEAvg": 55.08,
-    "CurrentRecentTrendPercent": 0.0152,
-    "CurrentRecentTrendComment": "連2漲",
+    "CurrentPE": 49.04,
+    "CurrentPEAvg": 55.07,
+    "CurrentRecentTrendPercent": 0.0022,
+    "CurrentRecentTrendComment": "跌→漲",
     "URL": "https://tw.stock.yahoo.com/quote/1303/dividend"
   },
   {
@@ -895,10 +895,10 @@
     "CurrentTrend": 0.2,
     "CurrentTrendPercent": 0.003,
     "CurrentTurnover": 11987,
-    "CurrentPE": 11.94,
-    "CurrentPEAvg": 13.85,
-    "CurrentRecentTrendPercent": 0.0556,
-    "CurrentRecentTrendComment": "連4漲",
+    "CurrentPE": 11.97,
+    "CurrentPEAvg": 13.82,
+    "CurrentRecentTrendPercent": 0.003,
+    "CurrentRecentTrendComment": "連2跌→漲",
     "URL": "https://tw.stock.yahoo.com/quote/2882/dividend"
   },
   {
@@ -913,8 +913,8 @@
     "CurrentTurnover": 164,
     "CurrentPE": 0,
     "CurrentPEAvg": 0,
-    "CurrentRecentTrendPercent": 0.0461,
-    "CurrentRecentTrendComment": "連3跌",
+    "CurrentRecentTrendPercent": 0.02,
+    "CurrentRecentTrendComment": "連2跌",
     "URL": "https://tw.stock.yahoo.com/quote/1589/dividend"
   },
   {
@@ -927,10 +927,10 @@
     "CurrentTrend": -0.1,
     "CurrentTrendPercent": -0.0024,
     "CurrentTurnover": 1360,
-    "CurrentPE": 13.39,
-    "CurrentPEAvg": 78.85,
-    "CurrentRecentTrendPercent": 0.0268,
-    "CurrentRecentTrendComment": "漲→跌",
+    "CurrentPE": 13.36,
+    "CurrentPEAvg": 79.57,
+    "CurrentRecentTrendPercent": 0.0454,
+    "CurrentRecentTrendComment": "連4跌",
     "URL": "https://tw.stock.yahoo.com/quote/2355/dividend"
   },
   {
@@ -943,10 +943,10 @@
     "CurrentTrend": 0.1,
     "CurrentTrendPercent": 0.0027,
     "CurrentTurnover": 1687,
-    "CurrentPE": 13.99,
-    "CurrentPEAvg": 66.26,
-    "CurrentRecentTrendPercent": 0.0082,
-    "CurrentRecentTrendComment": "連2漲",
+    "CurrentPE": 14.03,
+    "CurrentPEAvg": 66.29,
+    "CurrentRecentTrendPercent": 0.0027,
+    "CurrentRecentTrendComment": "跌→漲",
     "URL": "https://tw.stock.yahoo.com/quote/8150/dividend"
   },
   {
@@ -959,10 +959,10 @@
     "CurrentTrend": -0.1,
     "CurrentTrendPercent": -0.0023,
     "CurrentTurnover": 6437,
-    "CurrentPE": 23.11,
-    "CurrentPEAvg": 55.08,
-    "CurrentRecentTrendPercent": 0.0024,
-    "CurrentRecentTrendComment": "連2漲→跌",
+    "CurrentPE": 23.06,
+    "CurrentPEAvg": 55.07,
+    "CurrentRecentTrendPercent": 0.0214,
+    "CurrentRecentTrendComment": "連2跌",
     "URL": "https://tw.stock.yahoo.com/quote/1326/dividend"
   },
   {
@@ -975,10 +975,10 @@
     "CurrentTrend": -0.05,
     "CurrentTrendPercent": -0.003,
     "CurrentTurnover": 26029,
-    "CurrentPE": 11.79,
-    "CurrentPEAvg": 13.85,
-    "CurrentRecentTrendPercent": 0.0061,
-    "CurrentRecentTrendComment": "連2跌→漲",
+    "CurrentPE": 11.75,
+    "CurrentPEAvg": 13.82,
+    "CurrentRecentTrendPercent": 0.003,
+    "CurrentRecentTrendComment": "漲→跌",
     "URL": "https://tw.stock.yahoo.com/quote/2883/dividend"
   },
   {
@@ -991,10 +991,10 @@
     "CurrentTrend": 2,
     "CurrentTrendPercent": 0.0022,
     "CurrentTurnover": 1402,
-    "CurrentPE": 23.62,
-    "CurrentPEAvg": 55.7,
-    "CurrentRecentTrendPercent": 0.0023,
-    "CurrentRecentTrendComment": "連5漲→跌",
+    "CurrentPE": 23.67,
+    "CurrentPEAvg": 56.24,
+    "CurrentRecentTrendPercent": 0.0022,
+    "CurrentRecentTrendComment": "跌→漲",
     "URL": "https://tw.stock.yahoo.com/quote/1590/dividend"
   },
   {
@@ -1007,10 +1007,10 @@
     "CurrentTrend": 1.3,
     "CurrentTrendPercent": 0.0302,
     "CurrentTurnover": 15365,
-    "CurrentPE": 22.93,
-    "CurrentPEAvg": 53.92,
-    "CurrentRecentTrendPercent": 0.0046,
-    "CurrentRecentTrendComment": "漲→跌",
+    "CurrentPE": 23.62,
+    "CurrentPEAvg": 53.59,
+    "CurrentRecentTrendPercent": 0.0302,
+    "CurrentRecentTrendComment": "跌→漲",
     "URL": "https://tw.stock.yahoo.com/quote/2356/dividend"
   },
   {
@@ -1024,9 +1024,9 @@
     "CurrentTrendPercent": 0,
     "CurrentTurnover": 107,
     "CurrentPE": 17.79,
-    "CurrentPEAvg": 13.85,
-    "CurrentRecentTrendPercent": 0.0305,
-    "CurrentRecentTrendComment": "連2漲",
+    "CurrentPEAvg": 13.82,
+    "CurrentRecentTrendPercent": 0,
+    "CurrentRecentTrendComment": "連2平",
     "URL": "https://tw.stock.yahoo.com/quote/2849/dividend"
   },
   {
@@ -1039,10 +1039,10 @@
     "CurrentTrend": 0.6,
     "CurrentTrendPercent": 0.0156,
     "CurrentTurnover": 12466,
-    "CurrentPE": 21.57,
-    "CurrentPEAvg": 38.73,
-    "CurrentRecentTrendPercent": 0.0409,
-    "CurrentRecentTrendComment": "連3漲",
+    "CurrentPE": 21.91,
+    "CurrentPEAvg": 38.6,
+    "CurrentRecentTrendPercent": 0.0209,
+    "CurrentRecentTrendComment": "連2漲",
     "URL": "https://tw.stock.yahoo.com/quote/1402/dividend"
   },
   {
@@ -1056,9 +1056,9 @@
     "CurrentTrendPercent": 0,
     "CurrentTurnover": 9102,
     "CurrentPE": 27.56,
-    "CurrentPEAvg": 27.67,
-    "CurrentRecentTrendPercent": 0.0015,
-    "CurrentRecentTrendComment": "漲→跌",
+    "CurrentPEAvg": 27.88,
+    "CurrentRecentTrendPercent": 0,
+    "CurrentRecentTrendComment": "跌→平",
     "URL": "https://tw.stock.yahoo.com/quote/1605/dividend"
   },
   {
@@ -1071,10 +1071,10 @@
     "CurrentTrend": 4.5,
     "CurrentTrendPercent": 0.012,
     "CurrentTurnover": 1488,
-    "CurrentPE": 36.09,
-    "CurrentPEAvg": 34.91,
-    "CurrentRecentTrendPercent": 0.0377,
-    "CurrentRecentTrendComment": "連2跌",
+    "CurrentPE": 36.52,
+    "CurrentPEAvg": 35.3,
+    "CurrentRecentTrendPercent": 0.012,
+    "CurrentRecentTrendComment": "平→漲",
     "URL": "https://tw.stock.yahoo.com/quote/2360/dividend"
   },
   {
@@ -1088,9 +1088,9 @@
     "CurrentTrendPercent": 0,
     "CurrentTurnover": 470,
     "CurrentPE": 24.09,
-    "CurrentPEAvg": 14.45,
-    "CurrentRecentTrendPercent": 0.0098,
-    "CurrentRecentTrendComment": "連2跌",
+    "CurrentPEAvg": 14.55,
+    "CurrentRecentTrendPercent": 0,
+    "CurrentRecentTrendComment": "漲→平",
     "URL": "https://tw.stock.yahoo.com/quote/8464/dividend"
   },
   {
@@ -1103,10 +1103,10 @@
     "CurrentTrend": -1,
     "CurrentTrendPercent": -0.0018,
     "CurrentTurnover": 366,
-    "CurrentPE": 24.45,
-    "CurrentPEAvg": 38.73,
-    "CurrentRecentTrendPercent": 0,
-    "CurrentRecentTrendComment": "連2漲→平",
+    "CurrentPE": 24.41,
+    "CurrentPEAvg": 38.6,
+    "CurrentRecentTrendPercent": 0.0439,
+    "CurrentRecentTrendComment": "連3跌",
     "URL": "https://tw.stock.yahoo.com/quote/1476/dividend"
   },
   {
@@ -1130,10 +1130,10 @@
     "CurrentTrend": 0.2,
     "CurrentTrendPercent": 0.0033,
     "CurrentTurnover": 9451,
-    "CurrentPE": 21.18,
-    "CurrentPEAvg": 53.92,
-    "CurrentRecentTrendPercent": 0.0237,
-    "CurrentRecentTrendComment": "漲→跌",
+    "CurrentPE": 21.25,
+    "CurrentPEAvg": 53.59,
+    "CurrentRecentTrendPercent": 0.0033,
+    "CurrentRecentTrendComment": "跌→漲",
     "URL": "https://tw.stock.yahoo.com/quote/2362/dividend"
   },
   {
@@ -1146,10 +1146,10 @@
     "CurrentTrend": -0.15,
     "CurrentTrendPercent": -0.0124,
     "CurrentTurnover": 212776,
-    "CurrentPE": 9.8,
-    "CurrentPEAvg": 13.85,
-    "CurrentRecentTrendPercent": 0,
-    "CurrentRecentTrendComment": "連2漲→平",
+    "CurrentPE": 9.67,
+    "CurrentPEAvg": 13.82,
+    "CurrentRecentTrendPercent": 0.0124,
+    "CurrentRecentTrendComment": "漲→跌",
     "URL": "https://tw.stock.yahoo.com/quote/2888/dividend"
   },
   {
@@ -1162,10 +1162,10 @@
     "CurrentTrend": 0.15,
     "CurrentTrendPercent": 0.009,
     "CurrentTurnover": 2631,
-    "CurrentPE": 38.07,
-    "CurrentPEAvg": 27.9,
-    "CurrentRecentTrendPercent": 0.0061,
-    "CurrentRecentTrendComment": "連2漲→跌",
+    "CurrentPE": 38.41,
+    "CurrentPEAvg": 27.84,
+    "CurrentRecentTrendPercent": 0.04,
+    "CurrentRecentTrendComment": "連3漲",
     "URL": "https://tw.stock.yahoo.com/quote/9907/dividend"
   },
   {
@@ -1178,10 +1178,10 @@
     "CurrentTrend": 0.2,
     "CurrentTrendPercent": 0.0086,
     "CurrentTurnover": 28605,
-    "CurrentPE": 105.23,
-    "CurrentPEAvg": 50.95,
-    "CurrentRecentTrendPercent": 0.0046,
-    "CurrentRecentTrendComment": "連3漲→跌",
+    "CurrentPE": 106.14,
+    "CurrentPEAvg": 50.58,
+    "CurrentRecentTrendPercent": 0.0736,
+    "CurrentRecentTrendComment": "連3漲",
     "URL": "https://tw.stock.yahoo.com/quote/2002/dividend"
   },
   {
@@ -1194,10 +1194,10 @@
     "CurrentTrend": 2,
     "CurrentTrendPercent": 0.0139,
     "CurrentTurnover": 201,
-    "CurrentPE": 14.96,
-    "CurrentPEAvg": 37.4,
-    "CurrentRecentTrendPercent": 0.0035,
-    "CurrentRecentTrendComment": "平→漲",
+    "CurrentPE": 15.17,
+    "CurrentPEAvg": 37.45,
+    "CurrentRecentTrendPercent": 0.0139,
+    "CurrentRecentTrendComment": "跌→漲",
     "URL": "https://tw.stock.yahoo.com/quote/1707/dividend"
   },
   {
@@ -1210,10 +1210,10 @@
     "CurrentTrend": -0.5,
     "CurrentTrendPercent": -0.0019,
     "CurrentTurnover": 4069,
-    "CurrentPE": 21.03,
-    "CurrentPEAvg": 53.92,
-    "CurrentRecentTrendPercent": 0.0019,
-    "CurrentRecentTrendComment": "平→漲",
+    "CurrentPE": 20.99,
+    "CurrentPEAvg": 53.59,
+    "CurrentRecentTrendPercent": 0.0301,
+    "CurrentRecentTrendComment": "連2跌",
     "URL": "https://tw.stock.yahoo.com/quote/2376/dividend"
   },
   {
@@ -1226,10 +1226,10 @@
     "CurrentTrend": 0.2,
     "CurrentTrendPercent": 0.0074,
     "CurrentTurnover": 1206,
-    "CurrentPE": 16.26,
-    "CurrentPEAvg": 27.46,
-    "CurrentRecentTrendPercent": 0.0149,
-    "CurrentRecentTrendComment": "連2漲",
+    "CurrentPE": 16.38,
+    "CurrentPEAvg": 27.45,
+    "CurrentRecentTrendPercent": 0.0074,
+    "CurrentRecentTrendComment": "跌→漲",
     "URL": "https://tw.stock.yahoo.com/quote/2903/dividend"
   },
   {
@@ -1242,10 +1242,10 @@
     "CurrentTrend": -0.3,
     "CurrentTrendPercent": -0.0058,
     "CurrentTurnover": 6456,
-    "CurrentPE": 20.72,
-    "CurrentPEAvg": 24.63,
-    "CurrentRecentTrendPercent": 0.001,
-    "CurrentRecentTrendComment": "連2漲→跌",
+    "CurrentPE": 20.6,
+    "CurrentPEAvg": 24.48,
+    "CurrentRecentTrendPercent": 0.0058,
+    "CurrentRecentTrendComment": "漲→跌",
     "URL": "https://tw.stock.yahoo.com/quote/2105/dividend"
   },
   {
@@ -1258,10 +1258,10 @@
     "CurrentTrend": -0.25,
     "CurrentTrendPercent": -0.0073,
     "CurrentTurnover": 5259,
-    "CurrentPE": 21.21,
-    "CurrentPEAvg": 43.56,
-    "CurrentRecentTrendPercent": 0,
-    "CurrentRecentTrendComment": "連2平",
+    "CurrentPE": 21.06,
+    "CurrentPEAvg": 43.5,
+    "CurrentRecentTrendPercent": 0.0314,
+    "CurrentRecentTrendComment": "連2跌",
     "URL": "https://tw.stock.yahoo.com/quote/1717/dividend"
   },
   {
@@ -1274,10 +1274,10 @@
     "CurrentTrend": 1,
     "CurrentTrendPercent": 0.0057,
     "CurrentTurnover": 2669,
-    "CurrentPE": 19.12,
-    "CurrentPEAvg": 53.92,
-    "CurrentRecentTrendPercent": 0.0225,
-    "CurrentRecentTrendComment": "連2跌",
+    "CurrentPE": 19.23,
+    "CurrentPEAvg": 53.59,
+    "CurrentRecentTrendPercent": 0.0086,
+    "CurrentRecentTrendComment": "連2漲",
     "URL": "https://tw.stock.yahoo.com/quote/2377/dividend"
   },
   {
@@ -1290,10 +1290,10 @@
     "CurrentTrend": -8.5,
     "CurrentTrendPercent": -0.037,
     "CurrentTurnover": 2263,
-    "CurrentPE": 45.1,
-    "CurrentPEAvg": 31.29,
-    "CurrentRecentTrendPercent": 0.0407,
-    "CurrentRecentTrendComment": "連2跌",
+    "CurrentPE": 43.43,
+    "CurrentPEAvg": 31.01,
+    "CurrentRecentTrendPercent": 0.0996,
+    "CurrentRecentTrendComment": "連5跌",
     "URL": "https://tw.stock.yahoo.com/quote/9914/dividend"
   },
   {
@@ -1306,10 +1306,10 @@
     "CurrentTrend": -1.2,
     "CurrentTrendPercent": -0.0207,
     "CurrentTurnover": 2592,
-    "CurrentPE": 35.8,
-    "CurrentPEAvg": 43.56,
-    "CurrentRecentTrendPercent": 0.0051,
-    "CurrentRecentTrendComment": "連2漲→跌",
+    "CurrentPE": 35.06,
+    "CurrentPEAvg": 43.5,
+    "CurrentRecentTrendPercent": 0.0291,
+    "CurrentRecentTrendComment": "連2跌",
     "URL": "https://tw.stock.yahoo.com/quote/1722/dividend"
   },
   {
@@ -1322,10 +1322,10 @@
     "CurrentTrend": 2.5,
     "CurrentTrendPercent": 0.0053,
     "CurrentTurnover": 2085,
-    "CurrentPE": 19.69,
-    "CurrentPEAvg": 66.26,
-    "CurrentRecentTrendPercent": 0.0447,
-    "CurrentRecentTrendComment": "連4漲",
+    "CurrentPE": 19.8,
+    "CurrentPEAvg": 66.29,
+    "CurrentRecentTrendPercent": 0.0053,
+    "CurrentRecentTrendComment": "跌→漲",
     "URL": "https://tw.stock.yahoo.com/quote/2379/dividend"
   },
   {
@@ -1338,10 +1338,10 @@
     "CurrentTrend": -1,
     "CurrentTrendPercent": -0.0019,
     "CurrentTurnover": 2394,
-    "CurrentPE": 14.34,
-    "CurrentPEAvg": 66.26,
-    "CurrentRecentTrendPercent": 0.0175,
-    "CurrentRecentTrendComment": "連2跌→漲",
+    "CurrentPE": 14.31,
+    "CurrentPEAvg": 66.29,
+    "CurrentRecentTrendPercent": 0.0019,
+    "CurrentRecentTrendComment": "漲→跌",
     "URL": "https://tw.stock.yahoo.com/quote/3034/dividend"
   },
   {
@@ -1354,10 +1354,10 @@
     "CurrentTrend": -2.5,
     "CurrentTrendPercent": -0.0181,
     "CurrentTurnover": 532,
-    "CurrentPE": 22.26,
-    "CurrentPEAvg": 27.9,
-    "CurrentRecentTrendPercent": 0,
-    "CurrentRecentTrendComment": "漲→平",
+    "CurrentPE": 21.85,
+    "CurrentPEAvg": 27.84,
+    "CurrentRecentTrendPercent": 0.0181,
+    "CurrentRecentTrendComment": "平→跌",
     "URL": "https://tw.stock.yahoo.com/quote/9917/dividend"
   },
   {
@@ -1370,9 +1370,9 @@
     "CurrentTrend": 0.3,
     "CurrentTrendPercent": 0.0087,
     "CurrentTurnover": 31450,
-    "CurrentPE": 10.75,
-    "CurrentPEAvg": 13.85,
-    "CurrentRecentTrendPercent": 0.0014,
+    "CurrentPE": 10.84,
+    "CurrentPEAvg": 13.82,
+    "CurrentRecentTrendPercent": 0.0087,
     "CurrentRecentTrendComment": "連2跌→漲",
     "URL": "https://tw.stock.yahoo.com/quote/2891/dividend"
   },
@@ -1386,10 +1386,10 @@
     "CurrentTrend": 1.5,
     "CurrentTrendPercent": 0.0148,
     "CurrentTurnover": 289,
-    "CurrentPE": 18.83,
-    "CurrentPEAvg": 43.56,
-    "CurrentRecentTrendPercent": 0.0098,
-    "CurrentRecentTrendComment": "連2漲→跌",
+    "CurrentPE": 19.11,
+    "CurrentPEAvg": 43.5,
+    "CurrentRecentTrendPercent": 0.0148,
+    "CurrentRecentTrendComment": "跌→漲",
     "URL": "https://tw.stock.yahoo.com/quote/1723/dividend"
   },
   {
@@ -1402,10 +1402,10 @@
     "CurrentTrend": -5,
     "CurrentTrendPercent": -0.0112,
     "CurrentTurnover": 7174,
-    "CurrentPE": 18.29,
-    "CurrentPEAvg": 78.85,
-    "CurrentRecentTrendPercent": 0.0148,
-    "CurrentRecentTrendComment": "漲→跌",
+    "CurrentPE": 18.09,
+    "CurrentPEAvg": 79.57,
+    "CurrentRecentTrendPercent": 0.0556,
+    "CurrentRecentTrendComment": "連2跌",
     "URL": "https://tw.stock.yahoo.com/quote/2383/dividend"
   },
   {
@@ -1418,10 +1418,10 @@
     "CurrentTrend": 0.5,
     "CurrentTrendPercent": 0.0035,
     "CurrentTurnover": 9125,
-    "CurrentPE": 23.04,
-    "CurrentPEAvg": 78.85,
-    "CurrentRecentTrendPercent": 0,
-    "CurrentRecentTrendComment": "漲→平",
+    "CurrentPE": 23.12,
+    "CurrentPEAvg": 79.57,
+    "CurrentRecentTrendPercent": 0.0035,
+    "CurrentRecentTrendComment": "跌→漲",
     "URL": "https://tw.stock.yahoo.com/quote/3037/dividend"
   },
   {
@@ -1434,10 +1434,10 @@
     "CurrentTrend": -9.5,
     "CurrentTrendPercent": -0.0424,
     "CurrentTurnover": 3545,
-    "CurrentPE": 28.75,
-    "CurrentPEAvg": 31.29,
-    "CurrentRecentTrendPercent": 0.0323,
-    "CurrentRecentTrendComment": "連5漲→跌",
+    "CurrentPE": 27.54,
+    "CurrentPEAvg": 31.01,
+    "CurrentRecentTrendPercent": 0.0633,
+    "CurrentRecentTrendComment": "連2跌",
     "URL": "https://tw.stock.yahoo.com/quote/9921/dividend"
   },
   {
@@ -1450,10 +1450,10 @@
     "CurrentTrend": -0.1,
     "CurrentTrendPercent": -0.0019,
     "CurrentTurnover": 24918,
-    "CurrentPE": 12.63,
-    "CurrentPEAvg": 66.26,
-    "CurrentRecentTrendPercent": 0.0186,
-    "CurrentRecentTrendComment": "連2漲",
+    "CurrentPE": 12.61,
+    "CurrentPEAvg": 66.29,
+    "CurrentRecentTrendPercent": 0.0236,
+    "CurrentRecentTrendComment": "連2跌",
     "URL": "https://tw.stock.yahoo.com/quote/2303/dividend"
   },
   {
@@ -1466,9 +1466,9 @@
     "CurrentTrend": -0.2,
     "CurrentTrendPercent": -0.0078,
     "CurrentTurnover": 245,
-    "CurrentPE": 50.39,
-    "CurrentPEAvg": 37.4,
-    "CurrentRecentTrendPercent": 0.0117,
+    "CurrentPE": 50,
+    "CurrentPEAvg": 37.45,
+    "CurrentRecentTrendPercent": 0.0078,
     "CurrentRecentTrendComment": "連2漲→跌",
     "URL": "https://tw.stock.yahoo.com/quote/1789/dividend"
   },
@@ -1482,10 +1482,10 @@
     "CurrentTrend": -5.5,
     "CurrentTrendPercent": -0.0335,
     "CurrentTurnover": 5849,
-    "CurrentPE": 14.17,
-    "CurrentPEAvg": 78.85,
-    "CurrentRecentTrendPercent": 0.0369,
-    "CurrentRecentTrendComment": "連2漲",
+    "CurrentPE": 13.7,
+    "CurrentPEAvg": 79.57,
+    "CurrentRecentTrendPercent": 0.0593,
+    "CurrentRecentTrendComment": "連3跌",
     "URL": "https://tw.stock.yahoo.com/quote/2385/dividend"
   },
   {
@@ -1498,10 +1498,10 @@
     "CurrentTrend": -3.5,
     "CurrentTrendPercent": -0.0178,
     "CurrentTurnover": 2768,
-    "CurrentPE": 13.28,
-    "CurrentPEAvg": 78.85,
-    "CurrentRecentTrendPercent": 0.0243,
-    "CurrentRecentTrendComment": "漲→跌",
+    "CurrentPE": 13.04,
+    "CurrentPEAvg": 79.57,
+    "CurrentRecentTrendPercent": 0.0631,
+    "CurrentRecentTrendComment": "連4跌",
     "URL": "https://tw.stock.yahoo.com/quote/3044/dividend"
   },
   {
@@ -1514,10 +1514,10 @@
     "CurrentTrend": -0.15,
     "CurrentTrendPercent": -0.0032,
     "CurrentTurnover": 874,
-    "CurrentPE": 18.12,
-    "CurrentPEAvg": 27.9,
-    "CurrentRecentTrendPercent": 0.0214,
-    "CurrentRecentTrendComment": "連2跌",
+    "CurrentPE": 18.07,
+    "CurrentPEAvg": 27.84,
+    "CurrentRecentTrendPercent": 0.0387,
+    "CurrentRecentTrendComment": "連5跌",
     "URL": "https://tw.stock.yahoo.com/quote/9933/dividend"
   },
   {
@@ -1530,10 +1530,10 @@
     "CurrentTrend": 4,
     "CurrentTrendPercent": 0.0105,
     "CurrentTurnover": 5868,
-    "CurrentPE": 29.02,
-    "CurrentPEAvg": 78.85,
-    "CurrentRecentTrendPercent": 0.005,
-    "CurrentRecentTrendComment": "連3漲→跌",
+    "CurrentPE": 29.33,
+    "CurrentPEAvg": 79.57,
+    "CurrentRecentTrendPercent": 0.0105,
+    "CurrentRecentTrendComment": "跌→漲",
     "URL": "https://tw.stock.yahoo.com/quote/2308/dividend"
   },
   {
@@ -1546,10 +1546,10 @@
     "CurrentTrend": 2,
     "CurrentTrendPercent": 0.0068,
     "CurrentTurnover": 1100,
-    "CurrentPE": 26.58,
-    "CurrentPEAvg": 27.46,
-    "CurrentRecentTrendPercent": 0.0033,
-    "CurrentRecentTrendComment": "平→跌",
+    "CurrentPE": 26.76,
+    "CurrentPEAvg": 27.45,
+    "CurrentRecentTrendPercent": 0.0068,
+    "CurrentRecentTrendComment": "連3跌→漲",
     "URL": "https://tw.stock.yahoo.com/quote/2912/dividend"
   },
   {
@@ -1562,10 +1562,10 @@
     "CurrentTrend": 0.05,
     "CurrentTrendPercent": 0.0027,
     "CurrentTurnover": 30536,
-    "CurrentPE": 116.88,
-    "CurrentPEAvg": 113.93,
-    "CurrentRecentTrendPercent": 0.0031,
-    "CurrentRecentTrendComment": "漲→跌",
+    "CurrentPE": 117.19,
+    "CurrentPEAvg": 115.45,
+    "CurrentRecentTrendPercent": 0.161,
+    "CurrentRecentTrendComment": "連3漲",
     "URL": "https://tw.stock.yahoo.com/quote/1802/dividend"
   },
   {
@@ -1578,10 +1578,10 @@
     "CurrentTrend": -0.3,
     "CurrentTrendPercent": -0.0047,
     "CurrentTurnover": 1804,
-    "CurrentPE": 15.06,
-    "CurrentPEAvg": 78.85,
-    "CurrentRecentTrendPercent": 0.0122,
-    "CurrentRecentTrendComment": "漲→跌",
+    "CurrentPE": 14.99,
+    "CurrentPEAvg": 79.57,
+    "CurrentRecentTrendPercent": 0.0274,
+    "CurrentRecentTrendComment": "連2跌",
     "URL": "https://tw.stock.yahoo.com/quote/2392/dividend"
   },
   {
@@ -1595,9 +1595,9 @@
     "CurrentTrendPercent": 0,
     "CurrentTurnover": 6936,
     "CurrentPE": 379.31,
-    "CurrentPEAvg": 66.26,
-    "CurrentRecentTrendPercent": 0.0386,
-    "CurrentRecentTrendComment": "連2漲",
+    "CurrentPEAvg": 66.29,
+    "CurrentRecentTrendPercent": 0,
+    "CurrentRecentTrendComment": "跌→平",
     "URL": "https://tw.stock.yahoo.com/quote/3189/dividend"
   },
   {
@@ -1610,10 +1610,10 @@
     "CurrentTrend": 2.8,
     "CurrentTrendPercent": 0.0384,
     "CurrentTurnover": 6707,
-    "CurrentPE": 20.62,
-    "CurrentPEAvg": 27.9,
-    "CurrentRecentTrendPercent": 0.0231,
-    "CurrentRecentTrendComment": "連3跌",
+    "CurrentPE": 21.41,
+    "CurrentPEAvg": 27.84,
+    "CurrentRecentTrendPercent": 0.0384,
+    "CurrentRecentTrendComment": "跌→漲",
     "URL": "https://tw.stock.yahoo.com/quote/9938/dividend"
   },
   {
@@ -1637,10 +1637,10 @@
     "CurrentTrend": -1.7,
     "CurrentTrendPercent": -0.02,
     "CurrentTurnover": 441,
-    "CurrentPE": 19.41,
-    "CurrentPEAvg": 50.95,
-    "CurrentRecentTrendPercent": 0,
-    "CurrentRecentTrendComment": "漲→平",
+    "CurrentPE": 19.02,
+    "CurrentPEAvg": 50.58,
+    "CurrentRecentTrendPercent": 0.02,
+    "CurrentRecentTrendComment": "連2漲→跌",
     "URL": "https://tw.stock.yahoo.com/quote/2015/dividend"
   },
   {
@@ -1664,10 +1664,10 @@
     "CurrentTrend": 0.5,
     "CurrentTrendPercent": 0.005,
     "CurrentTurnover": 7344,
-    "CurrentPE": 18.17,
-    "CurrentPEAvg": 53.92,
-    "CurrentRecentTrendPercent": 0.0096,
-    "CurrentRecentTrendComment": "連3漲→跌",
+    "CurrentPE": 18.26,
+    "CurrentPEAvg": 53.59,
+    "CurrentRecentTrendPercent": 0.005,
+    "CurrentRecentTrendComment": "跌→漲",
     "URL": "https://tw.stock.yahoo.com/quote/3231/dividend"
   },
   {
@@ -1680,10 +1680,10 @@
     "CurrentTrend": -0.5,
     "CurrentTrendPercent": -0.0027,
     "CurrentTurnover": 33559,
-    "CurrentPE": 16.95,
-    "CurrentPEAvg": 34.91,
-    "CurrentRecentTrendPercent": 0.0891,
-    "CurrentRecentTrendComment": "連6漲",
+    "CurrentPE": 16.91,
+    "CurrentPEAvg": 35.3,
+    "CurrentRecentTrendPercent": 0.0209,
+    "CurrentRecentTrendComment": "連2跌",
     "URL": "https://tw.stock.yahoo.com/quote/2317/dividend"
   },
   {
@@ -1696,10 +1696,10 @@
     "CurrentTrend": 0.5,
     "CurrentTrendPercent": 0.0043,
     "CurrentTurnover": 9590,
-    "CurrentPE": 27.32,
-    "CurrentPEAvg": 78.79,
-    "CurrentRecentTrendPercent": 0.0086,
-    "CurrentRecentTrendComment": "跌→漲",
+    "CurrentPE": 27.43,
+    "CurrentPEAvg": 78.71,
+    "CurrentRecentTrendPercent": 0.0043,
+    "CurrentRecentTrendComment": "連2跌→漲",
     "URL": "https://tw.stock.yahoo.com/quote/3045/dividend"
   },
   {
@@ -1712,10 +1712,10 @@
     "CurrentTrend": -0.5,
     "CurrentTrendPercent": -0.0044,
     "CurrentTurnover": 13590,
-    "CurrentPE": 21.55,
-    "CurrentPEAvg": 66.26,
-    "CurrentRecentTrendPercent": 0,
-    "CurrentRecentTrendComment": "漲→平",
+    "CurrentPE": 21.46,
+    "CurrentPEAvg": 66.29,
+    "CurrentRecentTrendPercent": 0.0468,
+    "CurrentRecentTrendComment": "連2跌",
     "URL": "https://tw.stock.yahoo.com/quote/2449/dividend"
   },
   {
@@ -1728,10 +1728,10 @@
     "CurrentTrend": 0.8,
     "CurrentTrendPercent": 0.0181,
     "CurrentTurnover": 4300,
-    "CurrentPE": 32.91,
-    "CurrentPEAvg": 54.37,
-    "CurrentRecentTrendPercent": 0.0615,
-    "CurrentRecentTrendComment": "連2跌",
+    "CurrentPE": 33.51,
+    "CurrentPEAvg": 54.96,
+    "CurrentRecentTrendPercent": 0.0181,
+    "CurrentRecentTrendComment": "跌→漲",
     "URL": "https://tw.stock.yahoo.com/quote/3673/dividend"
   },
   {
@@ -1744,10 +1744,10 @@
     "CurrentTrend": 1.2,
     "CurrentTrendPercent": 0.036,
     "CurrentTurnover": 25688,
-    "CurrentPE": 16.17,
-    "CurrentPEAvg": 53.92,
-    "CurrentRecentTrendPercent": 0.0177,
-    "CurrentRecentTrendComment": "連2漲→跌",
+    "CurrentPE": 16.75,
+    "CurrentPEAvg": 53.59,
+    "CurrentRecentTrendPercent": 0.036,
+    "CurrentRecentTrendComment": "跌→漲",
     "URL": "https://tw.stock.yahoo.com/quote/2324/dividend"
   },
   {
@@ -1771,10 +1771,10 @@
     "CurrentTrend": -10,
     "CurrentTrendPercent": -0.0091,
     "CurrentTurnover": 1313,
-    "CurrentPE": 23.96,
-    "CurrentPEAvg": 78.85,
-    "CurrentRecentTrendPercent": 0.0086,
-    "CurrentRecentTrendComment": "跌→漲",
+    "CurrentPE": 23.74,
+    "CurrentPEAvg": 79.57,
+    "CurrentRecentTrendPercent": 0.0954,
+    "CurrentRecentTrendComment": "連2跌",
     "URL": "https://tw.stock.yahoo.com/quote/2059/dividend"
   },
   {
@@ -1787,10 +1787,10 @@
     "CurrentTrend": -2.5,
     "CurrentTrendPercent": -0.0243,
     "CurrentTurnover": 1421,
-    "CurrentPE": 15.4,
-    "CurrentPEAvg": 66.26,
-    "CurrentRecentTrendPercent": 0.0171,
-    "CurrentRecentTrendComment": "連2漲",
+    "CurrentPE": 15.02,
+    "CurrentPEAvg": 66.29,
+    "CurrentRecentTrendPercent": 0.0243,
+    "CurrentRecentTrendComment": "平→跌",
     "URL": "https://tw.stock.yahoo.com/quote/2451/dividend"
   },
   {
@@ -1827,8 +1827,8 @@
     "CurrentTurnover": 47281,
     "CurrentPE": 0,
     "CurrentPEAvg": 0,
-    "CurrentRecentTrendPercent": 0.0096,
-    "CurrentRecentTrendComment": "連3跌→漲",
+    "CurrentRecentTrendPercent": 0.0093,
+    "CurrentRecentTrendComment": "連3漲→跌",
     "URL": "https://tw.stock.yahoo.com/quote/3481/dividend"
   },
   {
@@ -1843,8 +1843,8 @@
     "CurrentTurnover": 54623,
     "CurrentPE": 0,
     "CurrentPEAvg": 0,
-    "CurrentRecentTrendPercent": 0.0045,
-    "CurrentRecentTrendComment": "平→漲",
+    "CurrentRecentTrendPercent": 0.1818,
+    "CurrentRecentTrendComment": "連4漲",
     "URL": "https://tw.stock.yahoo.com/quote/2498/dividend"
   },
   {
@@ -1857,10 +1857,10 @@
     "CurrentTrend": -1.4,
     "CurrentTrendPercent": -0.0187,
     "CurrentTurnover": 8243,
-    "CurrentPE": 16.23,
-    "CurrentPEAvg": 21.41,
-    "CurrentRecentTrendPercent": 0.0039,
-    "CurrentRecentTrendComment": "連3漲→跌",
+    "CurrentPE": 15.93,
+    "CurrentPEAvg": 21.42,
+    "CurrentRecentTrendPercent": 0.0503,
+    "CurrentRecentTrendComment": "連2跌",
     "URL": "https://tw.stock.yahoo.com/quote/3702/dividend"
   },
   {
@@ -1873,10 +1873,10 @@
     "CurrentTrend": 0.3,
     "CurrentTrendPercent": 0.0033,
     "CurrentTurnover": 9503,
-    "CurrentPE": 27.99,
-    "CurrentPEAvg": 78.79,
-    "CurrentRecentTrendPercent": 0.0171,
-    "CurrentRecentTrendComment": "連2跌",
+    "CurrentPE": 28.09,
+    "CurrentPEAvg": 78.71,
+    "CurrentRecentTrendPercent": 0.0033,
+    "CurrentRecentTrendComment": "連4跌→漲",
     "URL": "https://tw.stock.yahoo.com/quote/4904/dividend"
   },
   {
@@ -1889,9 +1889,9 @@
     "CurrentTrend": -0.05,
     "CurrentTrendPercent": -0.0021,
     "CurrentTurnover": 1721,
-    "CurrentPE": 20.34,
-    "CurrentPEAvg": 24.63,
-    "CurrentRecentTrendPercent": 0.0022,
+    "CurrentPE": 20.3,
+    "CurrentPEAvg": 24.48,
+    "CurrentRecentTrendPercent": 0.0021,
     "CurrentRecentTrendComment": "連2漲→跌",
     "URL": "https://tw.stock.yahoo.com/quote/2103/dividend"
   },
@@ -1905,10 +1905,10 @@
     "CurrentTrend": -0.1,
     "CurrentTrendPercent": -0.0039,
     "CurrentTurnover": 828,
-    "CurrentPE": 11.84,
-    "CurrentPEAvg": 31.6,
-    "CurrentRecentTrendPercent": 0.0099,
-    "CurrentRecentTrendComment": "漲→跌",
+    "CurrentPE": 11.79,
+    "CurrentPEAvg": 31.18,
+    "CurrentRecentTrendPercent": 0.0078,
+    "CurrentRecentTrendComment": "連2跌",
     "URL": "https://tw.stock.yahoo.com/quote/2501/dividend"
   },
   {
@@ -1921,10 +1921,10 @@
     "CurrentTrend": -0.5,
     "CurrentTrendPercent": -0.0044,
     "CurrentTurnover": 8237,
-    "CurrentPE": 14.82,
-    "CurrentPEAvg": 78.85,
-    "CurrentRecentTrendPercent": 0.013,
-    "CurrentRecentTrendComment": "漲→跌",
+    "CurrentPE": 14.75,
+    "CurrentPEAvg": 79.57,
+    "CurrentRecentTrendPercent": 0.0131,
+    "CurrentRecentTrendComment": "連2跌",
     "URL": "https://tw.stock.yahoo.com/quote/4958/dividend"
   },
   {
@@ -1937,10 +1937,10 @@
     "CurrentTrend": -0.5,
     "CurrentTrendPercent": -0.0075,
     "CurrentTurnover": 4012,
-    "CurrentPE": 24.41,
-    "CurrentPEAvg": 34.91,
-    "CurrentRecentTrendPercent": 0.0246,
-    "CurrentRecentTrendComment": "連3漲",
+    "CurrentPE": 24.23,
+    "CurrentPEAvg": 35.3,
+    "CurrentRecentTrendPercent": 0.0105,
+    "CurrentRecentTrendComment": "連2跌",
     "URL": "https://tw.stock.yahoo.com/quote/2354/dividend"
   },
   {
@@ -1953,10 +1953,10 @@
     "CurrentTrend": 1.5,
     "CurrentTrendPercent": 0.0146,
     "CurrentTurnover": 4499,
-    "CurrentPE": 14.88,
-    "CurrentPEAvg": 53.92,
-    "CurrentRecentTrendPercent": 0,
-    "CurrentRecentTrendComment": "連2平",
+    "CurrentPE": 15.1,
+    "CurrentPEAvg": 53.59,
+    "CurrentRecentTrendPercent": 0.0146,
+    "CurrentRecentTrendComment": "跌→漲",
     "URL": "https://tw.stock.yahoo.com/quote/4938/dividend"
   },
   {
@@ -1980,10 +1980,10 @@
     "CurrentTrend": 19,
     "CurrentTrendPercent": 0.0344,
     "CurrentTurnover": 3331,
-    "CurrentPE": 12.73,
-    "CurrentPEAvg": 53.92,
-    "CurrentRecentTrendPercent": 0.032,
-    "CurrentRecentTrendComment": "連2跌",
+    "CurrentPE": 13.16,
+    "CurrentPEAvg": 53.59,
+    "CurrentRecentTrendPercent": 0.0344,
+    "CurrentRecentTrendComment": "連4跌→漲",
     "URL": "https://tw.stock.yahoo.com/quote/2357/dividend"
   },
   {
@@ -1996,10 +1996,10 @@
     "CurrentTrend": -0.2,
     "CurrentTrendPercent": -0.0033,
     "CurrentTurnover": 2843,
-    "CurrentPE": 14.25,
-    "CurrentPEAvg": 25.14,
-    "CurrentRecentTrendPercent": 0.0068,
-    "CurrentRecentTrendComment": "漲→跌",
+    "CurrentPE": 14.2,
+    "CurrentPEAvg": 25.12,
+    "CurrentRecentTrendPercent": 0.005,
+    "CurrentRecentTrendComment": "連2跌",
     "URL": "https://tw.stock.yahoo.com/quote/2201/dividend"
   },
   {
@@ -2012,10 +2012,10 @@
     "CurrentTrend": 3.5,
     "CurrentTrendPercent": 0.0174,
     "CurrentTurnover": 15859,
-    "CurrentPE": 5.96,
-    "CurrentPEAvg": 17.52,
-    "CurrentRecentTrendPercent": 0.0167,
-    "CurrentRecentTrendComment": "連3漲→跌",
+    "CurrentPE": 6.06,
+    "CurrentPEAvg": 17.62,
+    "CurrentRecentTrendPercent": 0.0174,
+    "CurrentRecentTrendComment": "跌→漲",
     "URL": "https://tw.stock.yahoo.com/quote/2603/dividend"
   },
   {
@@ -2028,10 +2028,10 @@
     "CurrentTrend": -0.4,
     "CurrentTrendPercent": -0.0076,
     "CurrentTurnover": 4251,
-    "CurrentPE": 19.03,
-    "CurrentPEAvg": 52.04,
-    "CurrentRecentTrendPercent": 0.0098,
-    "CurrentRecentTrendComment": "漲→跌",
+    "CurrentPE": 18.88,
+    "CurrentPEAvg": 51.43,
+    "CurrentRecentTrendPercent": 0.0132,
+    "CurrentRecentTrendComment": "連2跌",
     "URL": "https://tw.stock.yahoo.com/quote/6505/dividend"
   },
   {
@@ -2044,10 +2044,10 @@
     "CurrentTrend": -1.1,
     "CurrentTrendPercent": -0.0149,
     "CurrentTurnover": 2009,
-    "CurrentPE": 8.04,
-    "CurrentPEAvg": 25.14,
-    "CurrentRecentTrendPercent": 0.007,
-    "CurrentRecentTrendComment": "漲→跌",
+    "CurrentPE": 7.92,
+    "CurrentPEAvg": 25.12,
+    "CurrentRecentTrendPercent": 0.0149,
+    "CurrentRecentTrendComment": "連2漲→跌",
     "URL": "https://tw.stock.yahoo.com/quote/2204/dividend"
   },
   {
@@ -2060,10 +2060,10 @@
     "CurrentTrend": 1.5,
     "CurrentTrendPercent": 0.0217,
     "CurrentTurnover": 59941,
-    "CurrentPE": 9.73,
-    "CurrentPEAvg": 17.52,
-    "CurrentRecentTrendPercent": 0.1491,
-    "CurrentRecentTrendComment": "連7漲",
+    "CurrentPE": 9.94,
+    "CurrentPEAvg": 17.62,
+    "CurrentRecentTrendPercent": 0.0217,
+    "CurrentRecentTrendComment": "跌→漲",
     "URL": "https://tw.stock.yahoo.com/quote/2609/dividend"
   },
   {
@@ -2076,10 +2076,10 @@
     "CurrentTrend": 0.65,
     "CurrentTrendPercent": 0.018,
     "CurrentTurnover": 11819,
-    "CurrentPE": 7.5,
-    "CurrentPEAvg": 31.29,
-    "CurrentRecentTrendPercent": 0.0056,
-    "CurrentRecentTrendComment": "連2跌",
+    "CurrentPE": 7.63,
+    "CurrentPEAvg": 31.01,
+    "CurrentRecentTrendPercent": 0.0395,
+    "CurrentRecentTrendComment": "連3漲",
     "URL": "https://tw.stock.yahoo.com/quote/9904/dividend"
   },
   {
@@ -2092,9 +2092,9 @@
     "CurrentTrend": 0.4,
     "CurrentTrendPercent": 0.0186,
     "CurrentTurnover": 15936,
-    "CurrentPE": 14.83,
-    "CurrentPEAvg": 17.52,
-    "CurrentRecentTrendPercent": 0.0046,
+    "CurrentPE": 15.1,
+    "CurrentPEAvg": 17.62,
+    "CurrentRecentTrendPercent": 0.0186,
     "CurrentRecentTrendComment": "跌→漲",
     "URL": "https://tw.stock.yahoo.com/quote/2610/dividend"
   },
@@ -2108,10 +2108,10 @@
     "CurrentTrend": 5,
     "CurrentTrendPercent": 0.0257,
     "CurrentTurnover": 2649,
-    "CurrentPE": 14.94,
-    "CurrentPEAvg": 54.37,
-    "CurrentRecentTrendPercent": 0.0026,
-    "CurrentRecentTrendComment": "漲→跌",
+    "CurrentPE": 15.32,
+    "CurrentPEAvg": 54.96,
+    "CurrentRecentTrendPercent": 0.0445,
+    "CurrentRecentTrendComment": "連3漲",
     "URL": "https://tw.stock.yahoo.com/quote/6176/dividend"
   },
   {
@@ -2126,8 +2126,8 @@
     "CurrentTurnover": 9469,
     "CurrentPE": 0,
     "CurrentPEAvg": 0,
-    "CurrentRecentTrendPercent": 0,
-    "CurrentRecentTrendComment": "漲→平",
+    "CurrentRecentTrendPercent": 0.0395,
+    "CurrentRecentTrendComment": "連2跌",
     "URL": "https://tw.stock.yahoo.com/quote/2408/dividend"
   },
   {
@@ -2140,10 +2140,10 @@
     "CurrentTrend": -0.2,
     "CurrentTrendPercent": -0.0051,
     "CurrentTurnover": 353,
-    "CurrentPE": 23.07,
-    "CurrentPEAvg": 30.41,
-    "CurrentRecentTrendPercent": 0.0026,
-    "CurrentRecentTrendComment": "連2漲",
+    "CurrentPE": 22.95,
+    "CurrentPEAvg": 30.44,
+    "CurrentRecentTrendPercent": 0.0051,
+    "CurrentRecentTrendComment": "連4漲→跌",
     "URL": "https://tw.stock.yahoo.com/quote/1227/dividend"
   },
   {
@@ -2156,10 +2156,10 @@
     "CurrentTrend": -4,
     "CurrentTrendPercent": -0.0292,
     "CurrentTurnover": 5383,
-    "CurrentPE": 11.25,
-    "CurrentPEAvg": 66.26,
-    "CurrentRecentTrendPercent": 0.0293,
-    "CurrentRecentTrendComment": "連2漲",
+    "CurrentPE": 10.92,
+    "CurrentPEAvg": 66.29,
+    "CurrentRecentTrendPercent": 0.0567,
+    "CurrentRecentTrendComment": "連2跌",
     "URL": "https://tw.stock.yahoo.com/quote/6239/dividend"
   },
   {
@@ -2174,8 +2174,8 @@
     "CurrentTurnover": 14468,
     "CurrentPE": 0,
     "CurrentPEAvg": 0,
-    "CurrentRecentTrendPercent": 0.0118,
-    "CurrentRecentTrendComment": "連2漲",
+    "CurrentRecentTrendPercent": 0.0116,
+    "CurrentRecentTrendComment": "連2跌",
     "URL": "https://tw.stock.yahoo.com/quote/2409/dividend"
   },
   {
@@ -2199,10 +2199,10 @@
     "CurrentTrend": 0.1,
     "CurrentTrendPercent": 0.0015,
     "CurrentTurnover": 8265,
-    "CurrentPE": 15.21,
-    "CurrentPEAvg": 78.85,
-    "CurrentRecentTrendPercent": 0.0042,
-    "CurrentRecentTrendComment": "漲→跌",
+    "CurrentPE": 15.23,
+    "CurrentPEAvg": 79.57,
+    "CurrentRecentTrendPercent": 0.0015,
+    "CurrentRecentTrendComment": "連3跌→漲",
     "URL": "https://tw.stock.yahoo.com/quote/2313/dividend"
   },
   {
@@ -2215,10 +2215,10 @@
     "CurrentTrend": 0.9,
     "CurrentTrendPercent": 0.0115,
     "CurrentTurnover": 1111,
-    "CurrentPE": 16.87,
-    "CurrentPEAvg": 78.85,
-    "CurrentRecentTrendPercent": 0.0076,
-    "CurrentRecentTrendComment": "連2漲→跌",
+    "CurrentPE": 17.06,
+    "CurrentPEAvg": 79.57,
+    "CurrentRecentTrendPercent": 0.0115,
+    "CurrentRecentTrendComment": "跌→漲",
     "URL": "https://tw.stock.yahoo.com/quote/6269/dividend"
   },
   {
@@ -2231,10 +2231,10 @@
     "CurrentTrend": 0.5,
     "CurrentTrendPercent": 0.004,
     "CurrentTurnover": 5699,
-    "CurrentPE": 26.65,
-    "CurrentPEAvg": 78.79,
+    "CurrentPE": 26.75,
+    "CurrentPEAvg": 78.71,
     "CurrentRecentTrendPercent": 0.004,
-    "CurrentRecentTrendComment": "連2平→漲",
+    "CurrentRecentTrendComment": "連2跌→漲",
     "URL": "https://tw.stock.yahoo.com/quote/2412/dividend"
   },
   {
@@ -2247,10 +2247,10 @@
     "CurrentTrend": -3,
     "CurrentTrendPercent": -0.0282,
     "CurrentTurnover": 5629,
-    "CurrentPE": 15.82,
-    "CurrentPEAvg": 25.14,
-    "CurrentRecentTrendPercent": 0.0268,
-    "CurrentRecentTrendComment": "連4跌",
+    "CurrentPE": 15.38,
+    "CurrentPEAvg": 25.12,
+    "CurrentRecentTrendPercent": 0.0282,
+    "CurrentRecentTrendComment": "漲→跌",
     "URL": "https://tw.stock.yahoo.com/quote/1319/dividend"
   },
   {
@@ -2263,10 +2263,10 @@
     "CurrentTrend": -2,
     "CurrentTrendPercent": -0.0172,
     "CurrentTurnover": 2919,
-    "CurrentPE": 13.41,
-    "CurrentPEAvg": 78.79,
-    "CurrentRecentTrendPercent": 0.0124,
-    "CurrentRecentTrendComment": "漲→跌",
+    "CurrentPE": 13.18,
+    "CurrentPEAvg": 78.71,
+    "CurrentRecentTrendPercent": 0.0539,
+    "CurrentRecentTrendComment": "連4跌",
     "URL": "https://tw.stock.yahoo.com/quote/6285/dividend"
   }
 ]
