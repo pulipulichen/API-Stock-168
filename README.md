@@ -14,3 +14,11 @@ Viewer:
 ## Trigger
 
 20230207-2104
+
+# Git Clone
+
+只取得最近的branch
+
+````bash
+git clone --branch main --single-branch --depth 1 https://github.com/democwise2016/API-Stock-168.git
+````
