@@ -9,7 +9,7 @@ permissions:
 jobs:
   build-and-deploy:
     concurrency: ci-${{ github.ref }} # Recommended if you intend to make multiple deployments in quick succession.
-    runs-on: ubuntu-20.04
+    runs-on: ubuntu-24.04
     steps:
       # ----------------------------------------------------------------
       
