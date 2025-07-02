@@ -1,8 +1,8 @@
 name: Cleaner
 on: 
   # push:
-  schedule:
-    - cron:  "0 0 * * 4" # 實際執行時間是這個時間加八小時
+  #schedule:
+  #  - cron:  "0 0 * * 4" # 實際執行時間是這個時間加八小時
   workflow_dispatch:
 permissions:
   contents: write

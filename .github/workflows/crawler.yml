@@ -1,8 +1,9 @@
 name: Crawler
 on: 
-  push:
-  schedule:
-    - cron:  "0 18 * * *"
+  #push:
+  #schedule:
+  #  - cron:  "0 18 * * *"
+  workflow_dispatch:
 permissions:
   contents: write
 jobs:
